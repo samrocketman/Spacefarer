@@ -1,0 +1,5 @@
+"Control Transceiver"
+"Electron Beam"
+"Jump Drive (Broken)"
+"Reasoning Node"
+"Surveillance Pod"

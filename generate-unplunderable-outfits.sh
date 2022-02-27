@@ -24,6 +24,7 @@ pushd "$1"
 grep -rl -- '^outfit ' data | while read data_file;do
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
+  grep -vFf ~1/skip-outfits.txt | \
     tr '\n' '\0' | \
     xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' > ~1/"${data_file}"
     echo "Created '${data_file}'."

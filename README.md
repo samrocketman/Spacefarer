@@ -15,20 +15,6 @@ Constraints include:
 - Ships cannot be captured
 - Critical story elements grant necessary outfits and ships as mission rewards
 
-# Credits
-
-Brought to you by Airhead and samrocketman on [Endless Sky discord][discord].
-
-Assistance and support was provided by the following discord users.  A big thank
-you from us to the community.
-
-- Ferociousfeind
-- Hecter
-- Hurleveur
-- Saugia
-- Terin
-- Zitchas
-
 # Known issues
 
 - Outfits are not plunderable but cargo on a ship can still be plundered.  This
@@ -42,6 +28,8 @@ you from us to the community.
 - Some story elements require plundering outfits.  Right now we've enabled
   plundering those specific outfits all the time.  An enhancement will be to
   toggle plunder only when necessary.
+
+See also [credits](credits.md).
 
 [ES]: https://github.com/endless-sky/endless-sky
 [the-wanderer]: https://www.youtube.com/watch?v=FCW0HviPEEY

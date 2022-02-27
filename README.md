@@ -33,4 +33,3 @@ See also [credits](credits.md).
 
 [ES]: https://github.com/endless-sky/endless-sky
 [the-wanderer]: https://www.youtube.com/watch?v=FCW0HviPEEY
-[discord]: https://discord.gg/ZeuASSx

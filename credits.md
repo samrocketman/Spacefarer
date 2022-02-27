@@ -11,3 +11,5 @@ you from us to the community.
 - Saugia
 - Terin
 - Zitchas
+
+[discord]: https://discord.gg/ZeuASSx

@@ -2,7 +2,7 @@
 
 set -eo pipefail
 
-plugin_name="no-cap plugin"
+plugin_name="Spacefarer plugin"
 
 #
 # Initial environment checking
@@ -25,15 +25,25 @@ pushd "$1"
 #
 # Automatically outfit constraints
 #
+echo 'Creating outfit constraints.'
 grep -rl -- '^outfit ' data | while read data_file;do
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
   grep -vFf ~1/metadata/skip-outfits.txt | \
     tr '\n' '\0' | \
     xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' > ~1/"${data_file}"
-    echo "Created '${data_file}'."
+    echo "    Created '${data_file}'."
 done
 
 #
-# TODO: Automaically generate ship constraints
+# Automaically generate ship constraints
 #
+echo 'Creating ship constraints.'
+grep -rl -- '^ship ' data | while read data_file; do
+  mkdir -p ~1/"${data_file%/*}"
+  grep -ro '^ship .*' "${data_file}" | \
+  grep -vFf ~1/metadata/skip-ships.txt | \
+    tr '\n' '\0' | \
+    xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' > ~1/"${data_file}"
+    echo "    Created '${data_file}'."
+done

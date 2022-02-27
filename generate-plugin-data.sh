@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eo pipefail
+set -euo pipefail
 
 plugin_name="Spacefarer plugin"
 
@@ -8,11 +8,11 @@ plugin_name="Spacefarer plugin"
 # Initial environment checking
 #
 if [ "$#" -eq 0 ]; then
-  echo 'ERROR: first argument must be a local endless sky git repo.' >&2
+  echo 'ERROR: first argument must be a local Endless Sky git repo.' >&2
   exit 1
 fi
-if [ -d "$1"/.git ] && ! [ -f "$1"/endless-sky.desktop ]; then
-  echo 'ERROR: first argument must be a local endless sky git repo.' >&2
+if [ -d "$1"/.git ] && [ ! -f "$1"/endless-sky.desktop ]; then
+  echo 'ERROR: first argument must be a local Endless Sky git repo.' >&2
   exit 1
 fi
 if [ ! -d .git ] || [ ! -f "${0##*/}" ]; then
@@ -23,10 +23,10 @@ fi
 pushd "$1"
 
 #
-# Automatically outfit constraints
+# Automaically generate outfit constraints
 #
 echo 'Creating outfit constraints.'
-grep -rl -- '^outfit ' data | while read data_file;do
+grep -rl -- '^outfit ' data | while read data_file; do
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
   grep -vFf ~1/metadata/skip-outfits.txt | \

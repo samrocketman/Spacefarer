@@ -21,6 +21,10 @@ if [ ! -d .git ] || [ ! -f "${0##*/}" ]; then
 fi
 
 pushd "$1"
+
+#
+# Automatically outfit constraints
+#
 grep -rl -- '^outfit ' data | while read data_file;do
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
@@ -29,3 +33,7 @@ grep -rl -- '^outfit ' data | while read data_file;do
     xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' > ~1/"${data_file}"
     echo "Created '${data_file}'."
 done
+
+#
+# TODO: Automaically generate ship constraints
+#

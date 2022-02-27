@@ -27,6 +27,8 @@ More documentation to come.
 - Outfits are not plunderable but cargo on a ship can still be plundered.  This
   is a limitation in what can be accomplished in plugins.  We accept this as a
   limitation and have no plans to change it.
+- Because Jump Drives are not plunderable there's critical story elements
+  inaccessible.  We're working on addressing this issue.
 
 [ES]: https://github.com/endless-sky/endless-sky
 [the-wanderer]: https://www.youtube.com/watch?v=FCW0HviPEEY

@@ -16,6 +16,8 @@ outfit "Heavy Laser"
 	"unplunderable" 1
 outfit "Heavy Laser Turret"
 	"unplunderable" 1
+outfit "Electron Beam"
+	"unplunderable" 1
 outfit "Electron Turret"
 	"unplunderable" 1
 outfit "Anti-Missile Turret"

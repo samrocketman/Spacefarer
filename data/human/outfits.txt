@@ -34,6 +34,8 @@ outfit "Scram Drive"
 	"unplunderable" 1
 outfit "Jump Drive"
 	"unplunderable" 1
+outfit "Jump Drive (Broken)"
+	"unplunderable" 1
 outfit "Cargo Scanner"
 	"unplunderable" 1
 outfit "Outfit Scanner"
@@ -41,6 +43,8 @@ outfit "Outfit Scanner"
 outfit "Asteroid Scanner"
 	"unplunderable" 1
 outfit "Tactical Scanner"
+	"unplunderable" 1
+outfit "Surveillance Pod"
 	"unplunderable" 1
 outfit "Cloaking Device"
 	"unplunderable" 1

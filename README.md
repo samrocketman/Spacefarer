@@ -11,10 +11,9 @@ constraints upon the player.
 
 Constraints include:
 
-- No outfits can be looted.
-- Ships cannot be captured.
-- Ships and outfits can only be purchased.
-- Critical story elements grant necessary outfits and ships as mission rewards.
+- Outfits cannot be looted (except for when a mission calls for it)
+- Ships cannot be captured
+- Critical story elements grant necessary outfits and ships as mission rewards
 
 # Credits
 
@@ -39,6 +38,10 @@ you from us to the community.
   inaccessible.  We're working on addressing this issue.
   - Sheragi
   - Wanderer
+  - Syndicate Checkmate
+- Some story elements require plundering outfits.  Right now we've enabled
+  plundering those specific outfits all the time.  An enhancement will be to
+  toggle plunder only when necessary.
 
 [ES]: https://github.com/endless-sky/endless-sky
 [the-wanderer]: https://www.youtube.com/watch?v=FCW0HviPEEY

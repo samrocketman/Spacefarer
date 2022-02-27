@@ -1,4 +1,14 @@
+# Endless Sky Plugin: Spacefarer
 
-# Conversation sparking plugin
+This is a plugin for the free open source game: [Endless Sky][ES].
 
-https://discord.com/channels/251118043411775489/266345072554016768/947148692987711558
+# TODO
+
+More documentation to come.
+
+# Known issues
+
+- Outfits are not plunderable but cargo on a ship can still be plundered.  This
+  is a limitation in what can be accomplished in plugins.
+
+[ES]: 

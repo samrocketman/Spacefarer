@@ -1,4 +1,4 @@
-# Endless Sky Plugin: Spacefarer 3000
+# Endless Sky Plugin: Spacefarer
 
 This is a plugin for the free open source game: [Endless Sky][ES].
 

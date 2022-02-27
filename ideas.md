@@ -14,3 +14,5 @@ Other kinds of tweaks?
 
 - Korath Automata will explode 100% of the time after lootable missions
   complete.
+- Support generating Endless Sky ships along with ships provided by other plugin
+  data.

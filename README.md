@@ -1,13 +1,13 @@
 # Endless Sky Plugin: Spacefarer
 
-This is a plugin for the free open source game: [Endless Sky][ES].
+This is a plugin for the free open source game: [Endless Sky][ES].  The theme
+song for this plugin is [The Wanderer][the-wanderer].
 
-The theme song for this plugin is [The Wanderer][the-wanderer]
+# Gameplay Mechanics Changes
 
-Mechanics
----------
-
-In an effort to add a unique re-playable experience to Endless Sky this plugin aims to minimally change the vanilla experience except to place a few constraints upon the player.
+In an effort to add a unique re-playable experience to Endless Sky this plugin
+aims to minimally change the vanilla experience except to place a few
+constraints upon the player.
 
 Constraints include:
 
@@ -15,22 +15,6 @@ Constraints include:
 - Ships cannot be captured.
 - Ships and outfits can only be purchased.
 - Critical story elements grant necessary outfits and ships as mission rewards.
-
-
-Credits
--------
-
-Plugin authors:
-- Airhead
-- samrocketman
-
-Plugin assistance provided by:
-- Ferociousfeind
-- Hecter
-- Hurleveur
-- Saugia
-- Terin
-- Zitchas
 
 # Credits
 

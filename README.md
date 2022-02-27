@@ -32,7 +32,7 @@ Constraints include:
 
 # Known issues
 
-- Critical story elements.  See Development status section.
+- Critical story elements blocked.  See Development status section.
 - Outfits are not plunderable but cargo on a ship can still be plundered.  This
   is a limitation in what can be accomplished in plugins.  We accept this as a
   limitation and have no plans to change it.

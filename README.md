@@ -53,6 +53,8 @@ you from us to the community.
   limitation and have no plans to change it.
 - Because Jump Drives are not plunderable there's critical story elements
   inaccessible.  We're working on addressing this issue.
+  - Sheragi
+  - Wanderer
 
 [ES]: https://github.com/endless-sky/endless-sky
 [the-wanderer]: https://www.youtube.com/watch?v=FCW0HviPEEY

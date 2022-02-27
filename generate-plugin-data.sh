@@ -49,3 +49,5 @@ grep -rl -- '^ship ' data | while read data_file; do
     echo "    Created '${data_file}'."
   ) || rm -f ~1/"${data_file}"
 done
+
+git rev-parse HEAD > ~1/metadata/endless-sky-commit

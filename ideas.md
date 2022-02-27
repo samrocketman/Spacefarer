@@ -1,6 +1,7 @@
 # Phase 1
 
-Make game completable with minimum effort.
+Make game completable with minimum effort.  [Hecter provided some advice for
+missions][loot-missions].
 
 # Phase 2
 
@@ -16,3 +17,5 @@ Other kinds of tweaks?
   complete.
 - Support generating Endless Sky ships along with ships provided by other plugin
   data.
+
+[loot-missions]: https://discord.com/channels/251118043411775489/266345072554016768/947308875458183198

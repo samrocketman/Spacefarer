@@ -1,0 +1,8 @@
+ship "Subsidurial"
+	"uncapturable"
+ship "Void Sprite"
+	"uncapturable"
+ship "Void Sprite" "Void Sprite (Infant)"
+	"uncapturable"
+ship "Ember Waste Node"
+	"uncapturable"

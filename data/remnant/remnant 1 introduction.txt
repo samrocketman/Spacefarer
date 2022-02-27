@@ -1,0 +1,4 @@
+ship "Starling" "Starling (Keystone)"
+	"uncapturable"
+ship "_Ion Timer Ship"
+	"uncapturable"

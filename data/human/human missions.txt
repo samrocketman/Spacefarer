@@ -1,0 +1,8 @@
+ship "Hallucination"
+	"uncapturable"
+ship "Asteroid"
+	"uncapturable"
+ship "Science Drone"
+	"uncapturable"
+ship "Vanguard" "Vanguard (Plasma Slow)"
+	"uncapturable"

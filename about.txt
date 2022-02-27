@@ -1,4 +1,4 @@
-In an effort to add a unique re-playable experience to Endless Sky this plugin aims to minimally change the vanilla experience except place a few constraints upon the player.
+In an effort to add a unique re-playable experience to Endless Sky this plugin aims to minimally change the vanilla experience except to place a few constraints upon the player.
 
 Constraints include:
 

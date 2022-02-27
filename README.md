@@ -3,6 +3,21 @@
 This is a plugin for the free open source game: [Endless Sky][ES].  The theme
 song for this plugin is [The Wanderer][the-wanderer].
 
+# Development status
+
+![image](https://user-images.githubusercontent.com/875669/155867171-af301f43-8408-4db2-9430-e4f4a1a05843.png)
+
+**Alpha:** critical story elements are broken due to being unable to loot
+outfits from disabled ships.  However, we're playing through it and will address
+the issues as we hit them.
+
+- Free worlds missions broken
+- Because Jump Drives are not plunderable there's critical story elements
+  inaccessible.  We're working on addressing this issue.
+  - Sheragi
+  - Wanderer
+  - Syndicate Checkmate
+
 # Gameplay Mechanics Changes
 
 In an effort to add a unique re-playable experience to Endless Sky this plugin
@@ -17,17 +32,10 @@ Constraints include:
 
 # Known issues
 
+- Critical story elements.  See Development status section.
 - Outfits are not plunderable but cargo on a ship can still be plundered.  This
   is a limitation in what can be accomplished in plugins.  We accept this as a
   limitation and have no plans to change it.
-- Because Jump Drives are not plunderable there's critical story elements
-  inaccessible.  We're working on addressing this issue.
-  - Sheragi
-  - Wanderer
-  - Syndicate Checkmate
-- Some story elements require plundering outfits.  Right now we've enabled
-  plundering those specific outfits all the time.  An enhancement will be to
-  toggle plunder only when necessary.
 
 See also [credits](credits.md).
 

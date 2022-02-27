@@ -20,12 +20,12 @@ if [ ! -d .git ] || [ ! -f "${0##*/}" ]; then
   exit 1
 fi
 
-pushd "$1"
+pushd "$1" &> /dev/null
 
 #
 # Automaically generate outfit constraints
 #
-echo 'Creating outfit constraints.'
+echo 'Creating outfit constraints:'
 grep -rl -- '^outfit ' data | while read data_file; do
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
@@ -38,7 +38,7 @@ done
 #
 # Automaically generate ship constraints
 #
-echo 'Creating ship constraints.'
+echo 'Creating ship constraints:'
 grep -rl -- '^ship ' data | while read data_file; do
   mkdir -p ~1/"${data_file%/*}"
   (

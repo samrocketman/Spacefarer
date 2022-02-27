@@ -1,32 +1,5 @@
 Welcome to Spacefarer
 ---------------------
-
 As a captain, you're careful not to risk the lives of your crew with frivolous combat.  You've built a great relationship with your crew and they trust you to lead them to glory.  Loss of life is inevitable in the merceless deep reaches of space.  However, you know if you lose crew due to capturing ships you would fear mutiny.  So rather than ruling through fear you stick to the honest life ferrying and ship to ship combat.  If anyone is going to die, it will be everyone when the ship explodes.
 
-Mechanics
----------
-
-In an effort to add a unique re-playable experience to Endless Sky this plugin aims to minimally change the vanilla experience except to place a few constraints upon the player.
-
-Constraints include:
-
-- No outfits can be looted.
-- Ships cannot be captured.
-- Ships and outfits can only be purchased.
-- Critical story elements grant necessary outfits and ships as mission rewards.
-
-
-Credits
--------
-
-Plugin authors:
-- Airhead
-- samrocketman
-
-Plugin assistance provided by:
-- Ferociousfeind
-- Hecter
-- Hurleveur
-- Saugia
-- Terin
-- Zitchas
+https://github.com/samrocketman/Spacefarer

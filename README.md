@@ -35,11 +35,13 @@ Constraints include:
 - Outfits are not plunderable but cargo on a ship can still be plundered.  This
   is a limitation in what can be accomplished in plugins.  We accept this as a
   limitation and have no plans to change it.
-- [Some outfits](metadata/skip-outfits.txt) are lootable because it is
-  impossible to trigger a boarding mission on a mission.
+- [Some outfits](metadata/skip-outfits.txt) are lootable because "mission NPCs"
+  can't offer boarding missions.  As such, there's no workaround at this time.
+  We have [a mission available][fw-drone] should this game behavior change.
 
 
 See also [credits](credits.md).
 
 [ES]: https://github.com/endless-sky/endless-sky
 [the-wanderer]: https://www.youtube.com/watch?v=FCW0HviPEEY
+[fw-drone]: metadata/fw-drone-mission.txt

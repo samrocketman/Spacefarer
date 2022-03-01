@@ -11,7 +11,6 @@ song for this plugin is [The Wanderer][the-wanderer].
 outfits from disabled ships.  However, we're playing through it and will address
 the issues as we hit them.
 
-- Free worlds missions broken
 - Because Jump Drives are not plunderable there's critical story elements
   inaccessible.  We're working on addressing this issue.
   - Sheragi
@@ -36,6 +35,9 @@ Constraints include:
 - Outfits are not plunderable but cargo on a ship can still be plundered.  This
   is a limitation in what can be accomplished in plugins.  We accept this as a
   limitation and have no plans to change it.
+- [Some outfits](metadata/skip-outfits.txt) are lootable because it is
+  impossible to trigger a boarding mission on a mission.
+
 
 See also [credits](credits.md).
 

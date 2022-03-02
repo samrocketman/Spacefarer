@@ -32,7 +32,9 @@ echo 'Creating outfit constraints:'
   grep -ro '^outfit .*' "${data_file}" | \
   grep -vFf ~1/metadata/skip-outfits.txt | (
       while read line; do
-        if ! grep -F "${line}" ~1/"${data_file}" &> /dev/null; then
+        #if ! grep -F "${line}" ~1/"${data_file}" &> /dev/null; then
+        #more IO intensive but avoids duplicates across files
+        if ! grep -xrFl -- "${line}" ~1/data &> /dev/null; then
           echo "${line}"
         fi
       done
@@ -57,7 +59,9 @@ echo 'Creating ship constraints:'
     grep -ro '^ship .*' "${data_file}" | \
     grep -vFf ~1/metadata/skip-ships.txt | (
         while read line; do
-          if ! grep -F "${line}" ~1/"${data_file}" &> /dev/null; then
+          #if ! grep -F "${line}" ~1/"${data_file}" &> /dev/null; then
+          #more IO intensive but avoids duplicates across files
+          if ! grep -xrFl -- "${line}" ~1/data &> /dev/null; then
             echo "${line}"
           fi
         done

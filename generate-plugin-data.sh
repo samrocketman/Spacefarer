@@ -3,10 +3,16 @@
 set -euo pipefail
 
 plugin_name="Spacefarer plugin"
+data_sub_folder="${1%/}"
+data_sub_folder="${data_sub_folder##*/}"
 
 #
 # Initial environment checking
 #
+if [ -z "${data_sub_folder:-}" ]; then
+  echo 'ERROR: could not determine subfolder.  Try to use full path to directory.' >&2
+  exit 1
+fi
 if [ ! -d "${1%/}"/data ]; then
   echo 'ERROR: first argument must be a local Endless Sky git repo or plugin directory.' >&2
   exit 1
@@ -28,7 +34,9 @@ echo 'Creating outfit constraints:'
   if [ -z "${data_file:-}" ]; then
     continue
   fi
-  mkdir -p ~1/"${data_file%/*}"
+  # add data to named sub-directory
+  dir_name=~1/data/"${data_sub_folder}"/"${data_file#data/}"
+  mkdir -p "${dir_name%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
   grep -vFf ~1/metadata/skip-outfits.txt | (
       while read line; do
@@ -40,8 +48,8 @@ echo 'Creating outfit constraints:'
       done
     ) | \
     tr '\n' '\0' | \
-    xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' > ~1/"${data_file}"
-  echo "    Created '${data_file}'."
+    xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' >> ~1/data/"${data_sub_folder}"/"${data_file#data/}"
+  echo "    Created 'data/${data_sub_folder}/${data_file#data/}'."
 done
 
 #
@@ -54,7 +62,9 @@ echo 'Creating ship constraints:'
   if [ -z "${data_file:-}" ]; then
     continue
   fi
-  mkdir -p ~1/"${data_file%/*}"
+  # add data to named sub-directory
+  dir_name=~1/data/"${data_sub_folder}"/"${data_file#data/}"
+  mkdir -p "${dir_name%/*}"
   (
     grep -ro '^ship .*' "${data_file}" | \
     grep -vFf ~1/metadata/skip-ships.txt | (
@@ -67,8 +77,8 @@ echo 'Creating ship constraints:'
         done
       ) | \
       tr '\n' '\0' | \
-      xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' > ~1/"${data_file}"
-    echo "    Created '${data_file}'."
+      xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' >> ~1/data/"${data_sub_folder}"/"${data_file#data/}"
+    echo "    Created 'data/${data_sub_folder}/${data_file#data/}'."
   ) || rm -f ~1/"${data_file}"
 done
 

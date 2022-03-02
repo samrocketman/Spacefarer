@@ -29,7 +29,13 @@ echo 'Creating outfit constraints:'
 grep -rl -- '^outfit ' data | while read data_file; do
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
-  grep -vFf ~1/metadata/skip-outfits.txt | \
+  grep -vFf ~1/metadata/skip-outfits.txt | (
+      while read line; do
+        if ! grep -F "${line}" ~1/"${data_file}" &> /dev/null; then
+          echo "${line}"
+        fi
+      done
+    ) | \
     tr '\n' '\0' | \
     xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' > ~1/"${data_file}"
   echo "    Created '${data_file}'."
@@ -43,7 +49,13 @@ grep -rl -- '^ship ' data | while read data_file; do
   mkdir -p ~1/"${data_file%/*}"
   (
     grep -ro '^ship .*' "${data_file}" | \
-    grep -vFf ~1/metadata/skip-ships.txt |
+    grep -vFf ~1/metadata/skip-ships.txt | (
+        while read line; do
+          if ! grep -F "${line}" ~1/"${data_file}" &> /dev/null; then
+            echo "${line}"
+          fi
+        done
+      ) | \
       tr '\n' '\0' | \
       xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' > ~1/"${data_file}"
     echo "    Created '${data_file}'."

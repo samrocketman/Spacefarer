@@ -1,3 +1,5 @@
+outfit Mouthparts?
+	"unplunderable" 1
 ship "Subsidurial"
 	"uncapturable"
 ship "Void Sprite"

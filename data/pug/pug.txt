@@ -1,8 +1,0 @@
-ship "Pug Zibruka"
-	"uncapturable"
-ship "Pug Enfolta"
-	"uncapturable"
-ship "Pug Maboro"
-	"uncapturable"
-ship "Pug Arfecta"
-	"uncapturable"

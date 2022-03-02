@@ -1,3 +1,5 @@
+outfit "Imaginary Weapon"
+	"unplunderable" 1
 ship "Hallucination"
 	"uncapturable"
 ship "Asteroid"

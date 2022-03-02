@@ -22,7 +22,12 @@ pushd "$1" &> /dev/null
 # Automaically generate outfit constraints
 #
 echo 'Creating outfit constraints:'
-grep -rl -- '^outfit ' data | while read data_file; do
+(
+  grep -rl -- '^outfit ' data || echo
+) | while read data_file; do
+  if [ -z "${data_file:-}" ]; then
+    continue
+  fi
   mkdir -p ~1/"${data_file%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
   grep -vFf ~1/metadata/skip-outfits.txt | (
@@ -41,7 +46,12 @@ done
 # Automaically generate ship constraints
 #
 echo 'Creating ship constraints:'
-grep -rl -- '^ship ' data | while read data_file; do
+(
+  grep -rl -- '^ship ' data || echo
+) | while read data_file; do
+  if [ -z "${data_file:-}" ]; then
+    continue
+  fi
   mkdir -p ~1/"${data_file%/*}"
   (
     grep -ro '^ship .*' "${data_file}" | \

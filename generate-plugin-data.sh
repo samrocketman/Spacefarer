@@ -7,12 +7,8 @@ plugin_name="Spacefarer plugin"
 #
 # Initial environment checking
 #
-if [ "$#" -eq 0 ]; then
-  echo 'ERROR: first argument must be a local Endless Sky git repo.' >&2
-  exit 1
-fi
-if [ -d "$1"/.git ] && [ ! -f "$1"/endless-sky.desktop ]; then
-  echo 'ERROR: first argument must be a local Endless Sky git repo.' >&2
+if [ ! -d "${1%/}"/data ]; then
+  echo 'ERROR: first argument must be a local Endless Sky git repo or plugin directory.' >&2
   exit 1
 fi
 if [ ! -d .git ] || [ ! -f "${0##*/}" ]; then
@@ -62,4 +58,4 @@ grep -rl -- '^ship ' data | while read data_file; do
   ) || rm -f ~1/"${data_file}"
 done
 
-git rev-parse HEAD > ~1/metadata/endless-sky-commit
+#git rev-parse HEAD > ~1/metadata/endless-sky-commit

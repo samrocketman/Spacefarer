@@ -82,4 +82,4 @@ echo 'Creating ship constraints:'
   ) || rm -f ~1/"${data_file}"
 done
 
-#git rev-parse HEAD > ~1/metadata/endless-sky-commit
+git rev-parse HEAD > ~1/metadata/"${data_sub_folder}"-commit

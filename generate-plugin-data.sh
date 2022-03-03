@@ -34,9 +34,9 @@ echo 'Creating outfit constraints:'
   if [ -z "${data_file:-}" ]; then
     continue
   fi
+  plugin_dest=data/"${data_sub_folder}"/"${data_file#data/}"
   # add data to named sub-directory
-  dir_name=~1/data/"${data_sub_folder}"/"${data_file#data/}"
-  mkdir -p "${dir_name%/*}"
+  mkdir -p ~1/"${plugin_dest%/*}"
   grep -ro '^outfit .*' "${data_file}" | \
   grep -vFf ~1/metadata/skip-outfits.txt | (
       while read line; do
@@ -48,8 +48,8 @@ echo 'Creating outfit constraints:'
       done
     ) | \
     tr '\n' '\0' | \
-    xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' >> ~1/data/"${data_sub_folder}"/"${data_file#data/}"
-  echo "    Created 'data/${data_sub_folder}/${data_file#data/}'."
+    xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' >> ~1/"${plugin_dest}"
+  echo "    Created '${plugin_dest}'."
 done
 
 #
@@ -62,9 +62,9 @@ echo 'Creating ship constraints:'
   if [ -z "${data_file:-}" ]; then
     continue
   fi
+  plugin_dest=data/"${data_sub_folder}"/"${data_file#data/}"
   # add data to named sub-directory
-  dir_name=~1/data/"${data_sub_folder}"/"${data_file#data/}"
-  mkdir -p "${dir_name%/*}"
+  mkdir -p ~1/"${plugin_dest%/*}"
   (
     grep -ro '^ship .*' "${data_file}" | \
     grep -vFf ~1/metadata/skip-ships.txt | (
@@ -77,8 +77,8 @@ echo 'Creating ship constraints:'
         done
       ) | \
       tr '\n' '\0' | \
-      xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' >> ~1/data/"${data_sub_folder}"/"${data_file#data/}"
-    echo "    Created 'data/${data_sub_folder}/${data_file#data/}'."
+      xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' >> ~1/"${plugin_dest}"
+    echo "    Created '${plugin_dest}'."
   ) || rm -f ~1/"${data_file}"
 done
 

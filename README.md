@@ -12,10 +12,11 @@ outfits from disabled ships.  However, we're playing through it and will address
 the issues as we hit them.
 
 - Because Jump Drives are not plunderable there's critical story elements
-  inaccessible.  We're working on addressing this issue.
-  - Sheragi
-  - Wanderer
-  - Syndicate Checkmate
+  inaccessible.  We're working on addressing this issue.  As support is added,
+  we'll check it off.  If all are checked off we'll move out of alpha status.
+  - [ ] Sheragi (No second JD for retrieving Emerald Sword)
+  - [ ] Wanderer (give to Unfettered)
+  - [ ] Syndicate Checkmate (not given first JD)
 
 # Gameplay Mechanics Changes
 
@@ -25,6 +26,7 @@ constraints upon the player.
 
 Constraints include:
 
+- One Jump Drive
 - Outfits cannot be looted (except for when a mission calls for it)
 - Ships cannot be captured
 - Critical story elements grant necessary outfits and ships as mission rewards

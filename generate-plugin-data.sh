@@ -85,3 +85,16 @@ done
 if [ -d .git ]; then
   git rev-parse HEAD > ~1/metadata/"${data_sub_folder}"-commit
 fi
+
+#
+# Copy over any custom missions
+#
+function custom_data_exists() {
+  [ -d "metadata/${data_sub_folder}" ] && \
+  [ -n "$(find "metadata/${data_sub_folder}" -maxdepth 1 -type f | head -n1)" ]
+}
+popd &> /dev/null
+if custom_data_exists; then
+  echo 'Adding custom missions for '"${data_sub_folder}"
+  cp "metadata/${data_sub_folder}"/* "data/${data_sub_folder}"/
+fi

@@ -84,3 +84,5 @@ outfit "Militia License"
 	"unplunderable" 1
 outfit "City-Ship License"
 	"unplunderable" 1
+outfit "Tear of Skade"
+	"unplunderable" 1

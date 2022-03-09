@@ -9,6 +9,8 @@ missions][loot-missions].
 - Update some mission requiremetns to trigger in a different order for when a
   player has a jump drive.
 - Sheragi: Remove 2 jump drives and add 1?
+- Jump drive removed mid-space: you wonder if you ever had a jump drive to begin
+  with?  You panic and check your fleet inventory and notice one of your ships
 
 # Phase 3
 

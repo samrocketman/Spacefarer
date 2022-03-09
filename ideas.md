@@ -8,6 +8,7 @@ missions][loot-missions].
 - Add better story elemants around obtaining story-critical items.
 - Update some mission requiremetns to trigger in a different order for when a
   player has a jump drive.
+- Sheragi: Remove 2 jump drives and add 1?
 
 # Phase 3
 

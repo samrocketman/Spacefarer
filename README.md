@@ -14,8 +14,8 @@ the issues as we hit them.
 - Because Jump Drives are not plunderable there's critical story elements
   inaccessible.  We're working on addressing this issue.  As support is added,
   we'll check it off.  If all are checked off we'll move out of alpha status.
-  - [ ] Sheragi (No second JD for retrieving Emerald Sword)
-  - [ ] Wanderer (give to Unfettered)
+  - [x] UNBLOCKED Sheragi (No second JD for retrieving Emerald Sword)
+  - [x] UNBLOCKED Wanderer (give to Unfettered)
   - [ ] Syndicate Checkmate (not given first JD)
 
 # Gameplay Mechanics Changes
@@ -40,6 +40,10 @@ Constraints include:
 - [Some outfits](metadata/skip-outfits.txt) are lootable because "mission NPCs"
   can't offer boarding missions.  As such, there's no workaround at this time.
   We have [a mission available][fw-drone] should this game behavior change.
+- Navy licenses are granted at the end of Free Worlds campaign.  This is
+  intentional because the player cannot capture Navy ships.  When a Navy
+  campaign is made available we'll remove the stop-gap mission associated with
+  it.
 
 
 See also [credits](credits.md).

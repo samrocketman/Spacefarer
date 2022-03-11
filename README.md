@@ -17,6 +17,7 @@ the issues as we hit them.
   - [x] UNBLOCKED Sheragi (No second JD for retrieving Emerald Sword)
   - [x] UNBLOCKED Wanderer (give to Unfettered)
   - [ ] Syndicate Checkmate (not given first JD)
+- [ ] Remove 2nd Jump drive granted during Sheragi campaign.
 
 # Gameplay Mechanics Changes
 

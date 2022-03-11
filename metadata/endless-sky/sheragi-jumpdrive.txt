@@ -1,22 +1,22 @@
 mission "Spacefarer Sheragi Archaeology: The Emerald Sword 2.5"
 	landing
 	name "Get a Loaner Jump Drive from the Quarg"
-	description "Visit the Quarg on Lagrange to receive a loaner jump drive."
+	description "Visit the Quarg on Humanika to receive a loaner jump drive."
 	source
 		near "Zubeneschamali" 1 100
-	destination "Lagrange"
+	destination "Humanika"
 	to offer
 		has "Sheragi Archaeology: The Emerald Sword 2: active"
 	on offer
 		dialog
 			`You're still in the middle of the post-flight check when you receive a new encoded message from Albert Foster.`
-			`	"Hello <first>. I have some more good news: Our Quarg friends agreed to loan us one jump drive to travel to that system, so with yours that makes two. Travel to Lagrange to pick it up."`
+			`	"Hello <first>. I have some more good news: Our Quarg friends agreed to loan us one jump drive to travel to that system, so with yours that makes two. Travel to Humanika to pick it up."`
 
 mission "Spacefarer Sheragi Archaeology: The Emerald Sword 2.75"
 	landing
-	name "Get a Loaner Jump Drive from the Quarg"
-	description "Visit the Quarg on Lagrange to receive a loaner jump drive."
-	source "Lagrange"
+	name "Loaner Jump Drive"
+	description "The Quarg loaned you a jump drive for the Emerald Sword mission."
+	source "Humanika"
 	to offer
 		has "Spacefarer Sheragi Archaeology: The Emerald Sword 2.5: done"
 	on offer
@@ -27,3 +27,5 @@ mission "Spacefarer Sheragi Archaeology: The Emerald Sword 2.75"
 				accept
 	on accept
 		outfit "Jump Drive" +1
+	to complete
+		never

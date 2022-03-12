@@ -26,6 +26,6 @@ mission "Spacefarer Sheragi Archaeology: The Emerald Sword 2.75"
 			`	You thank the Quarg and promise to return the jump drive after your mission.`
 				accept
 	on accept
-		outfit "Jump Drive" +1
+		outfit "Jump Drive" 1
 	to complete
 		never

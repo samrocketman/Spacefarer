@@ -12,7 +12,7 @@ mission "Spacefarer FW Epilogue: Licenses"
 		conversation
 			`As you're coming in for a landing on Earth, you receive a message from Navy Intelligence.`
 			`	"Captain <last>," it says, "For your actions during the war against the Pug and their incursion, you have been approved by the Parliament to receive Navy ship licenses for your personal use. Please standby for security codes to be transferred to your ship's computer."`
-				fail
+				decline
 
 event "Spacefarer: special navy auxiliary"
 	shipyard "Navy Advanced"

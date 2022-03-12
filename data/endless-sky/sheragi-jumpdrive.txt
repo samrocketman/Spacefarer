@@ -9,7 +9,7 @@ mission "Spacefarer Sheragi Archaeology: The Emerald Sword 2.5"
 		has "Sheragi Archaeology: The Emerald Sword 2: active"
 	on offer
 		dialog
-			`You're still in the middle of the post-flight check when you receive a new encoded message from Albert Foster.`
+			`Your commlink starts chattering with incomming data which transcodes to a message from Albert Foster.`
 			`	"Hello <first>. I have some more good news: Our Quarg friends agreed to loan us one jump drive to travel to that system, so with yours that makes two. Travel to Humanika to pick it up."`
 
 mission "Spacefarer Sheragi Archaeology: The Emerald Sword 2.75"

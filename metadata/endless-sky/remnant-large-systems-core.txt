@@ -1,15 +1,13 @@
-event "Spacefarer: large systems core"
-	outfitter "Remnant Salvage"
-		add "Systems Core (Large)"
 mission "Spacefarer: Add to Remnant: Cognizance 38"
 	invisible
 	landing
 	destination
 		government "Remnant"
 	to offer
-		has "Remnant: Cognizance 35: done"
+		has "Remnant: Cognizance 38: offered"
 	on offer
 		event "remnant: cognizance salvage expansion"
-		conversation
-			`Your commlink starts chattering with incomming data telling you that "Remnant Logistics" has made Large Systems Cores available for you to purchase.`
-				decline
+
+event "Spacefarer: large systems core"
+	outfitter "Remnant Salvage"
+		add "Systems Core (Large)"

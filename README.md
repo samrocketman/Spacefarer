@@ -1,6 +1,6 @@
 <p align=center><img src="https://raw.githubusercontent.com/samrocketman/Spacefarer/main/icon%402x.png" alt="Spacefarer 2x logo" /></p>
 
-<h1><p align=center>Endless Sky Plugin: Spacefarer</p></h1>
+<h1><p align=center>Endless Sky Plugin:<br />Spacefarer</p></h1>
 
 This is a plugin for the free open source game: [Endless Sky][ES].  The theme
 song for this plugin is [The Wanderer][the-wanderer].

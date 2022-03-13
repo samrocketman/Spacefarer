@@ -16,8 +16,9 @@ the issues as we hit them.
   we'll check it off.  If all are checked off we'll move out of alpha status.
   - [x] UNBLOCKED Sheragi (No second JD for retrieving Emerald Sword)
   - [x] UNBLOCKED Wanderer (give to Unfettered)
-  - [ ] Syndicate Checkmate (not given first JD)
+  - [x] Syndicate Checkmate (not given first JD)
 - [ ] Remove 2nd Jump drive granted during Sheragi campaign.
+- [ ] Clean up old lootable outfits and convert them to missions.
 
 # Gameplay Mechanics Changes
 

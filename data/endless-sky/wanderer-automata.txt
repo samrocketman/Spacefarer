@@ -1,0 +1,29 @@
+mission "Spacefarer Wanderers: Mereti Controller"
+	boarding
+	destination "Earth"
+	to offer
+		has "Wanderers: Mereti Controller: active"
+	source
+		outfits "Reasoning Node"
+	on offer
+		conversation "Spacefarer: looting reasoning node"
+		outfit "Reasoning Node" 1
+
+conversation "Spacefarer: looting reasoning node"
+	`Nervously, you board the Kor Mereti ship whose name is broadcasted as <origin>. You rush to remove an automata outfit known as a Reasoning Node.  You have no idea if the ship will explode as you rush back to your hatch and close.  Eerie screeching sounds follow you.  Your hatch closes and you have no desire to look back for the source of whatever machination is making the sound. An anchient phrase comes to mind, "curiosity kills the cat," so your ship quickly detaches and drifts away from the hulking automata.`
+		decline
+
+mission "Spacefarer Wanderers: Sestor Controller"
+	boarding
+	destination "Earth"
+	to offer
+		has "Wanderers: Sestor Controller: active"
+	source
+		outfits "Control Transceiver"
+	on offer
+		conversation "Spacefarer: looting control transceiver"
+		outfit "Control Transceiver" 1
+
+conversation "Spacefarer: looting control transceiver"
+	`You survey the Kor Sestor ship whose internal machinations make clinking and whirring sounds. Ominously hatches creak open as your flight engineer gives you a thumbs up; the Control Transceiver shimmers as lights pulse linearly throughout the interior the alien ship.  You see a metal plate printed on the part reading <origin>.  Each ship must get its own serial number because this appears to be a customized outfit since it bears the name of the ship.  You start hearing crackling sounds so decide you best not be idle and return to your ship immediately.`
+		decline

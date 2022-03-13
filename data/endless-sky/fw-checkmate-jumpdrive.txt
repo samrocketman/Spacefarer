@@ -7,7 +7,6 @@ mission "Spacefarer Boarding the Pug"
 	source
 		government "Pug"
 		outfits "Jump Drive"
-		"cargo space" > 19
 	on offer
 		conversation "Spacefarer: looting pug jumpdrive"
 		outfit "Jump Drive" 1

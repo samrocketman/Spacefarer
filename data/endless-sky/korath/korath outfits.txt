@@ -24,6 +24,10 @@ outfit "Fuel Processor"
 	"unplunderable" 1
 outfit "Command Center"
 	"unplunderable" 1
+outfit "Reasoning Node"
+	"unplunderable" 1
+outfit "Control Transceiver"
+	"unplunderable" 1
 outfit "Thruster (Asteroid Class)"
 	"unplunderable" 1
 outfit "Thruster (Comet Class)"

@@ -1,4 +1,4 @@
-mission "Boarding drone?"
+mission "Spacefarer Boarding republic drone"
 	boarding
 	destination "Earth"
 	to offer
@@ -6,9 +6,9 @@ mission "Boarding drone?"
 	source
 		outfits "Surveillance Pod"
 	on offer
-		conversation "looting surveillance drone"
+		conversation "Spacefarer: looting surveillance drone"
 		outfit "Surveillance Pod" 1
 
-conversation "looting surveillance drone"
+conversation "Spacefarer: looting surveillance drone"
 	`You know it won't be long before the <government> start chasing you when boarding the <origin>, you work fast to rip out the Surveillance Pod and put it in your cargo hold.  You start your jump out of the system as your hatch closes.`
 		decline

@@ -25,5 +25,5 @@ mission "Spacefarer Wanderers: Sestor Controller"
 		outfit "Control Transceiver" 1
 
 conversation "Spacefarer: looting control transceiver"
-	`You survey the Kor Sestor ship whose internal machinations make clinking and whirring sounds. Ominously hatches creak open as your flight engineer gives you a thumbs up; the Control Transceiver shimmers as lights pulse linearly throughout the interior the alien ship.  You see a metal plate printed on the part reading <origin>.  Each ship must get its own serial number because this appears to be a customized outfit since it bears the name of the ship.  You start hearing crackling sounds so decide you best not be idle and return to your ship immediately.`
+	`You survey the Kor Sestor ship whose internal machinations make clinking and whirring sounds. Ominously hatches open yet you hear no sound from their movement as your flight engineer gives you a thumbs up; the Control Transceiver shimmers as lights pulse linearly throughout the interior the alien ship.  You see a metal plate printed on the part reading <origin>.  Each ship must get its own serial number because this appears to be a customized outfit since it bears the name of the ship.  You start hearing crackling sounds so decide you best not be idle and return to your ship immediately.`
 		decline

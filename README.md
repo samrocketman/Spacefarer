@@ -47,7 +47,7 @@ plunderable when a mission calls for it.
 - [x] Syndicate Checkmate (JD granted to leave Pug space)
 - [ ] Clean up old lootable outfits and convert them to missions.
   - [x] Free Worlds Surveillance Pod mission
-  - [ ] Wanderer Control Transceiver and Reasoning Node mission
+  - [x] Wanderer Control Transceiver and Reasoning Node mission
   - [ ] Free Worlds Electron Beam mission
 
 See also [credits](credits.md).

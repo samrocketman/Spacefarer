@@ -36,15 +36,15 @@ Constraints include:
   Jump Drives will be consumed to proceed with story content.  At the end, the
   player would be left with one Jump Drive.
 
-# Development status
+# Development status: Beta
 
-**Beta:** all critical story elements are available.  Necessary outfits are
-available or plunderable when a mission calls for it.
+All critical story elements are available.  Necessary outfits are available or
+plunderable when a mission calls for it.
 
-- [x] UNBLOCKED Sheragi (No second JD for retrieving Emerald Sword)
+- [x] Sheragi (JD granted for retrieving Emerald Sword)
   - [ ] Remove 2nd Jump drive granted during Sheragi campaign.
-- [x] UNBLOCKED Wanderer (give to Unfettered)
-- [x] Syndicate Checkmate (not given first JD)
+- [x] Wanderer (JD granted to give to Unfettered)
+- [x] Syndicate Checkmate (JD granted to leave Pug space)
 - [ ] Clean up old lootable outfits and convert them to missions.
   - [x] Free Worlds Surveillance Pod mission
   - [ ] Wanderer Control Transceiver and Reasoning Node mission

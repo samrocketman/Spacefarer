@@ -42,6 +42,8 @@ outfit "Asteroid Scanner"
 	"unplunderable" 1
 outfit "Tactical Scanner"
 	"unplunderable" 1
+outfit "Surveillance Pod"
+	"unplunderable" 1
 outfit "Cloaking Device"
 	"unplunderable" 1
 outfit "Outfits Expansion"

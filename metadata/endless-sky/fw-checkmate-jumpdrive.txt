@@ -1,13 +1,13 @@
 mission "Spacefarer Boarding the Pug"
 	boarding
 	destination "Earth"
-        blocked "Before breaching you realize that you do not have enough cargo space to take the Jump Drive.  Free up some space before continuing."
+	blocked "Before breaching you realize that you do not have enough cargo space to take the Jump Drive.  Free up some space before continuing."
 	to offer
 		has "FWC Pug 2C: done"
 	source
 		government "Pug"
-                outfits "Jump Drive"
-                "cargo space" > 19
+		outfits "Jump Drive"
+		"cargo space" > 19
 	on offer
 		conversation "Spacefarer: looting pug jumpdrive"
 		outfit "Jump Drive" 1

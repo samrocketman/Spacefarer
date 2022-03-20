@@ -1,0 +1,15 @@
+mission "Spacefarer Inhibitor Turret: Cognizance 38"
+	invisible
+	landing
+	destination
+		government "Remnant"
+	to offer
+		or
+			has "Remnant: Cognizance 38: offered"
+			has "Remnant: Cognizance 38: done"
+	on offer
+		event "Spacefarer: unlock inhibitor turret"
+
+event "Spacefarer: unlock inhibitor turret"
+	outfitter "Remnant"
+		add "Inhibitor Turret"

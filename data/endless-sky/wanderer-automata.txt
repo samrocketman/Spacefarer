@@ -10,7 +10,7 @@ mission "Spacefarer Wanderers: Mereti Controller"
 		outfit "Reasoning Node" 1
 
 conversation "Spacefarer: looting reasoning node"
-	`Nervously, you board the Kor Mereti ship whose name is broadcasted as <origin>. You rush to remove an automata outfit known as a Reasoning Node.  You have no idea if the ship will explode as you rush back to your hatch and close.  Eerie screeching sounds follow you.  Your hatch closes and you have no desire to look back for the source of whatever machination is making the sound. An anchient phrase comes to mind, "curiosity kills the cat," so your ship quickly detaches and drifts away from the hulking automata.`
+	`Nervously, you board the Kor Mereti ship whose name is broadcasted as <origin>. You rush to remove an automata outfit known as a Reasoning Node.  You have no idea if the ship will explode as you rush back to your hatch and close.  Eerie screeching sounds follow you.  Your hatch closes and you have no desire to look back for the source of whatever machinery is making the sound. An anchient phrase comes to mind, "curiosity kills the cat," so your ship quickly detaches and drifts away from the hulking automata.`
 		decline
 
 mission "Spacefarer Wanderers: Sestor Controller"

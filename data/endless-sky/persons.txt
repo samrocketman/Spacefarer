@@ -1,0 +1,28 @@
+outfit "LG Gridfire Turret"
+	"unplunderable" 1
+outfit "Crystal Projector"
+	"unplunderable" 1
+outfit "Floating Crystal"
+	"unplunderable" 1
+outfit "Crystalline Formation"
+	"unplunderable" 1
+outfit "Hexagonal Crystal"
+	"unplunderable" 1
+outfit "Tree Skeleton Key Stone"
+	"unplunderable" 1
+ship "Finch" "Finch (MZ)"
+	"uncapturable"
+ship "Marauder Fury"
+	"uncapturable"
+ship "Lampyrid-Class Transport"
+	"uncapturable"
+ship "Modified Osprey"
+	"uncapturable"
+ship "Ursa Polaris"
+	"uncapturable"
+ship "Shooting Star"
+	"uncapturable"
+ship "Marauder Bactrian"
+	"uncapturable"
+ship "Modified Boxwing"
+	"uncapturable"

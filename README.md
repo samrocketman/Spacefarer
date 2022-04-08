@@ -35,6 +35,10 @@ Constraints include:
 - A player can obtain up to 3 Jump Drives simultaneously.  However, additional
   Jump Drives will be consumed to proceed with story content.  At the end, the
   player would be left with one Jump Drive.
+- Cannot sell unfettered multiple jump drives which prevents you building
+  rapport with the unfettered.  This blocks the scar missions.
+- Cannot pacify the unfettered after the wanderer story ends because you cannot
+  sell jump drives to the unfettered.
 
 # Development status: Beta
 

@@ -98,3 +98,15 @@ if custom_data_exists; then
   echo 'Adding custom missions for '"${data_sub_folder}"
   cp "metadata/${data_sub_folder}"/* "data/${data_sub_folder}"/
 fi
+
+#generator code for 
+#find data -type f -exec awk '
+#$0 ~ /^ship/ {
+#  ship=$0
+#};
+#ship != "" && $0 ~ "category \"Fighter\"" {
+#  print ship;
+#  print "\tattributes";
+#  print "\t\trear 1";
+#  ship=""
+#}' {} \; > ~1/data/"${data_sub_folder}"/spacefarer-fighter.txt

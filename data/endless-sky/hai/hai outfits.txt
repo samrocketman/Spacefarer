@@ -72,3 +72,5 @@ outfit `"Bufaer" Atomic Steering`
 	"unplunderable" 1
 outfit "Pulse Rifle"
 	"unplunderable" 1
+outfit "Shield Beetle Pendant"
+	"unplunderable" 1

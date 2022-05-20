@@ -24,6 +24,8 @@ outfit "X4200 Ion Steering"
 	"unplunderable" 1
 outfit "X5200 Ion Steering"
 	"unplunderable" 1
+outfit "X1100 Ion Reverse Thruster"
+	"unplunderable" 1
 outfit "Chipmunk Plasma Thruster"
 	"unplunderable" 1
 outfit "Greyhound Plasma Thruster"
@@ -43,6 +45,8 @@ outfit "Impala Plasma Steering"
 outfit "Orca Plasma Steering"
 	"unplunderable" 1
 outfit "Tyrant Plasma Steering"
+	"unplunderable" 1
+outfit "Capybara Reverse Thruster"
 	"unplunderable" 1
 outfit "A120 Atomic Thruster"
 	"unplunderable" 1
@@ -65,8 +69,4 @@ outfit "A525 Atomic Steering"
 outfit "A865 Atomic Steering"
 	"unplunderable" 1
 outfit "AR120 Reverse Thruster"
-	"unplunderable" 1
-outfit "Capybara Reverse Thruster"
-	"unplunderable" 1
-outfit "X1100 Ion Reverse Thruster"
 	"unplunderable" 1

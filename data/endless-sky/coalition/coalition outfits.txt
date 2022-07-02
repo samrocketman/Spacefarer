@@ -32,6 +32,8 @@ outfit "Fuel Module"
 	"unplunderable" 1
 outfit "Scanning Module"
 	"unplunderable" 1
+outfit "Outskirts Gauger"
+	"unplunderable" 1
 outfit "Small Thrust Module"
 	"unplunderable" 1
 outfit "Large Thrust Module"

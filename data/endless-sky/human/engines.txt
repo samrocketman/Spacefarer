@@ -1,4 +1,6 @@
-outfit "Afterburner"
+outfit "Volcano Afterburner"
+	"unplunderable" 1
+outfit "Caldera Afterburner"
 	"unplunderable" 1
 outfit "Ionic Afterburner"
 	"unplunderable" 1

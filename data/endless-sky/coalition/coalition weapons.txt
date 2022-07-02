@@ -4,6 +4,8 @@ outfit "Bombardment Turret"
 	"unplunderable" 1
 outfit "Finisher Pod"
 	"unplunderable" 1
+outfit "Finisher Maegrolain"
+	"unplunderable" 1
 outfit "Active Finisher"
 	"unplunderable" 1
 outfit "Finisher Storage Tube"

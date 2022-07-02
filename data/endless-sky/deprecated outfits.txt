@@ -28,3 +28,5 @@ outfit "Cruiser License"
 	"unplunderable" 1
 outfit "Carrier License"
 	"unplunderable" 1
+outfit "Afterburner"
+	"unplunderable" 1

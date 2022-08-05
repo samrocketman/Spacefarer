@@ -14,6 +14,10 @@ outfit "Small Heat Shunt"
 	"unplunderable" 1
 outfit "Large Heat Shunt"
 	"unplunderable" 1
+outfit "Liquid Sodium Cooler"
+	"unplunderable" 1
+outfit "Systems Core (Tiny)"
+	"unplunderable" 1
 outfit "Systems Core (Small)"
 	"unplunderable" 1
 outfit "Systems Core (Medium)"
@@ -27,6 +31,30 @@ outfit "Command Center"
 outfit "Reasoning Node"
 	"unplunderable" 1
 outfit "Control Transceiver"
+	"unplunderable" 1
+outfit "Afterburner (Asteroid Class)"
+	"unplunderable" 1
+outfit "Afterburner (Comet Class)"
+	"unplunderable" 1
+outfit "Afterburner (Lunar Class)"
+	"unplunderable" 1
+outfit "Afterburner (Planetary Class)"
+	"unplunderable" 1
+outfit "Afterburner (Stellar Class)"
+	"unplunderable" 1
+outfit "Engine (Meteor Class)"
+	"unplunderable" 1
+outfit "Bow Drive (Meteor Class)"
+	"unplunderable" 1
+outfit "Reverser (Asteroid Class)"
+	"unplunderable" 1
+outfit "Reverser (Comet Class)"
+	"unplunderable" 1
+outfit "Reverser (Lunar Class)"
+	"unplunderable" 1
+outfit "Reverser (Planetary Class)"
+	"unplunderable" 1
+outfit "Reverser (Stellar Class)"
 	"unplunderable" 1
 outfit "Thruster (Asteroid Class)"
 	"unplunderable" 1
@@ -49,4 +77,6 @@ outfit "Steering (Planetary Class)"
 outfit "Steering (Stellar Class)"
 	"unplunderable" 1
 outfit "Korath Repeater Rifle"
+	"unplunderable" 1
+outfit "Microbot Defense Station"
 	"unplunderable" 1

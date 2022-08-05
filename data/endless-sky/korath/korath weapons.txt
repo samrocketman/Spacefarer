@@ -1,10 +1,18 @@
 outfit "Korath Grab-Strike"
 	"unplunderable" 1
+outfit "Shunt-Strike Turret"
+	"unplunderable" 1
 outfit "Korath Banisher"
+	"unplunderable" 1
+outfit "Expeller Grav-Ray"
 	"unplunderable" 1
 outfit "Korath Warder"
 	"unplunderable" 1
 outfit "Korath Fire-Lance"
+	"unplunderable" 1
+outfit "Blaze-Pike Turret"
+	"unplunderable" 1
+outfit "Korath Inferno"
 	"unplunderable" 1
 outfit "Korath Repeater"
 	"unplunderable" 1
@@ -31,6 +39,16 @@ outfit "Korath Disruptor"
 outfit "Korath Slicer"
 	"unplunderable" 1
 outfit "Korath Slicer Turret"
+	"unplunderable" 1
+outfit "Digger Mining Turret"
+	"unplunderable" 1
+outfit "Digger Mining Beam"
+	"unplunderable" 1
+outfit "Langrage Hyper-Heaver"
+	"unplunderable" 1
+outfit "Heaver Shard"
+	"unplunderable" 1
+outfit "Heaver Splinter"
 	"unplunderable" 1
 outfit "Firelight Storage Rack"
 	"unplunderable" 1

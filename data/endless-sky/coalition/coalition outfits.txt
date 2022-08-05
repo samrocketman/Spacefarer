@@ -38,6 +38,10 @@ outfit "Small Thrust Module"
 	"unplunderable" 1
 outfit "Large Thrust Module"
 	"unplunderable" 1
+outfit "Small Reverse Module"
+	"unplunderable" 1
+outfit "Large Reverse Module"
+	"unplunderable" 1
 outfit "Small Steering Module"
 	"unplunderable" 1
 outfit "Large Steering Module"

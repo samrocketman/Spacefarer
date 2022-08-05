@@ -2,6 +2,11 @@
 
 set -euo pipefail
 
+if [ "$#" -eq 0 ]; then
+  echo 'Error must provide path to enless-sky repo as first argument.' >&2
+  exit 1
+fi
+
 plugin_name="Spacefarer plugin"
 data_sub_folder="${1%/}"
 data_sub_folder="${data_sub_folder##*/}"

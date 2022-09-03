@@ -1,0 +1,4 @@
+ship "Saryd Trailblazer" "Saryd Trailblazer (Pug)"
+	"uncapturable"
+ship "Auxiliary" "Auxiliary (Oathbreaker)"
+	"uncapturable"

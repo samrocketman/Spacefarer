@@ -1,0 +1,18 @@
+outfit "Prototype Ramscoop FCX"
+	"unplunderable" 1
+outfit "Prototype Lodestone Engine MDX"
+	"unplunderable" 1
+outfit "Prototype Shield Modulator SD-DSD"
+	"unplunderable" 1
+outfit "Prototype Cooling HGX"
+	"unplunderable" 1
+outfit "Prototype Power Converter ECX"
+	"unplunderable" 1
+outfit "Secret Prototype"
+	"unplunderable" 1
+ship "Firebird" "Firebird Test Dummy"
+	"uncapturable"
+ship "Marauder Arrow" "Cupid's Arrow"
+	"uncapturable"
+ship "Vanguard" "Vanguard Test-PGCF8"
+	"uncapturable"

@@ -1,0 +1,4 @@
+ship "Saryd Trailblazer" "Saryd Trailblazer (Antique)"
+	"uncapturable"
+ship "Saryd Trailblazer" "Saryd Trailblazer (Pirate)"
+	"uncapturable"

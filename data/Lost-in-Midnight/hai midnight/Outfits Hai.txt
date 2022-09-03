@@ -1,0 +1,16 @@
+outfit "Ion Pulse Cannon"
+	"unplunderable" 1
+outfit "Dual Pulse Pistols"
+	"unplunderable" 1
+outfit "Quantum Dragon Blade"
+	"unplunderable" 1
+outfit "Quantum Key Blade"
+	"unplunderable" 1
+outfit "Quantum Phoenix Blade"
+	"unplunderable" 1
+outfit "Quantum Snake Blade"
+	"unplunderable" 1
+outfit "Quantum Tiger Blade"
+	"unplunderable" 1
+outfit "Quantum Turtle Blade"
+	"unplunderable" 1

@@ -1,0 +1,2 @@
+ship "Archon" "Archon (Lich)"
+	"uncapturable"

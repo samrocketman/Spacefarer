@@ -1,0 +1,8 @@
+ship "Spring Leaf" "Spring Leaf (Jump)"
+	"uncapturable"
+ship "Winter Leaf" "Winter Leaf (Jump)"
+	"uncapturable"
+ship "Tornado" "Tornado (Jump)"
+	"uncapturable"
+ship "Tsunami" "Tsunami (Jump)"
+	"uncapturable"

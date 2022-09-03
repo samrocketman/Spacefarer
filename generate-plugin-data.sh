@@ -22,10 +22,6 @@ if [ ! -d "${1%/}"/data ]; then
   echo 'ERROR: first argument must be a local Endless Sky git repo or plugin directory.' >&2
   exit 1
 fi
-if [ ! -d .git ] || [ ! -f "${0##*/}" ]; then
-  echo "ERROR: This script must be run from the ${plugin_name} git repository." >&2
-  exit 1
-fi
 
 pushd "$1" &> /dev/null
 

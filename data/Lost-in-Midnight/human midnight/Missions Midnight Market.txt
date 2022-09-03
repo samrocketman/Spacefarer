@@ -1,0 +1,2 @@
+ship "Hauler VI" "Hauler VI (prototype)"
+	"uncapturable"

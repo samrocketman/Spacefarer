@@ -1,0 +1,2 @@
+ship "Lampyrid Mk. III"
+	"uncapturable"

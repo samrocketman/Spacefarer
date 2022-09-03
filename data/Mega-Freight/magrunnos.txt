@@ -1,0 +1,40 @@
+outfit "VolHex-1070 Guardian Turret"
+	"unplunderable" 1
+outfit "LirNiu-092 Turret"
+	"unplunderable" 1
+outfit "EolLei-155 Turret"
+	"unplunderable" 1
+outfit "IchRuh-092 Turret"
+	"unplunderable" 1
+outfit "PilKam-776 Arbalest Turret"
+	"unplunderable" 1
+outfit "PilKam Activated"
+	"unplunderable" 1
+outfit "SilChu-463 Swarmer Turret" #Dual missile, green flame
+	"unplunderable" 1
+outfit "SilChu Missile Fired"
+	"unplunderable" 1
+outfit "AhkVir-81 Disabler Turret"
+	"unplunderable" 1
+outfit "TihVhi-4 Sentry Turret"
+	"unplunderable" 1
+outfit "MsiVari-5 Point-Defense"
+	"unplunderable" 1
+outfit "Type-CCX Hyperdrive"
+	"unplunderable" 1
+outfit "Rugol Nullspace Generator"
+	"unplunderable" 1
+outfit "Ghi-Kel Battery"
+	"unplunderable" 1
+outfit "Ruo-Al Shield Node"
+	"unplunderable" 1
+outfit "Shi-Ai Shield Node"
+	"unplunderable" 1
+outfit "Chi-Ker Restorer"
+	"unplunderable" 1
+outfit "MGD-60 Crane System"
+	"unplunderable" 1
+outfit "HeVian-9 Engine"
+	"unplunderable" 1
+ship "Agrunnos"
+	"uncapturable"

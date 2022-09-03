@@ -1,0 +1,4 @@
+ship "Vanguard" "Vanguard (no hyperdrive)"
+	"uncapturable"
+ship "Vanguard" "Vanguard (Unarmed Scram Drive)"
+	"uncapturable"

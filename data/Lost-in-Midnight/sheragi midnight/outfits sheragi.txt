@@ -1,0 +1,16 @@
+outfit "Fake Sheragi Battery"
+	"unplunderable" 1
+outfit "Fake Sheragi Cooling"
+	"unplunderable" 1
+outfit "Fake Sheragi Drive"
+	"unplunderable" 1
+outfit "Fake Sheragi EWS"
+	"unplunderable" 1
+outfit "Fake Sheragi Anti-Missile"
+	"unplunderable" 1
+outfit "Fake Sheragi Turret"
+	"unplunderable" 1
+outfit "Fake Sheragi Fabricator"
+	"unplunderable" 1
+outfit "Fake Sheragi Cyclotron"
+	"unplunderable" 1

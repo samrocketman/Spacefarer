@@ -1,0 +1,6 @@
+ship "Vindicator" "Vindicator (Test)"
+	"uncapturable"
+ship "Liberator" "Liberator (Test)"
+	"uncapturable"
+ship "Korath Raider" "Korath Raider (Plexus)"
+	"uncapturable"

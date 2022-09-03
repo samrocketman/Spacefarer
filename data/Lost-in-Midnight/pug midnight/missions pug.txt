@@ -1,0 +1,10 @@
+outfit "Dream Crystal"
+	"unplunderable" 1
+ship "Hallucination" "Hallucination (hai)"
+	"uncapturable"
+ship "Hallucination" "Hallucination (korath)"
+	"uncapturable"
+ship "Hallucination" "Hallucination (quarg)"
+	"uncapturable"
+ship "Hallucination" "Hallucination (wanderer)"
+	"uncapturable"

@@ -1,0 +1,8 @@
+ship "Behemoth" "Behemoth (North Wind Cooling)"
+	"uncapturable"
+ship "Behemoth" "Behemoth (Ramscoop)"
+	"uncapturable"
+ship "Behemoth" "Behemoth (Hai North Wind)"
+	"uncapturable"
+ship "Star Queen" "Star Queen (Fission S2)"
+	"uncapturable"

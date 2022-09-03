@@ -1,0 +1,18 @@
+outfit "Phenomenon Weapon"
+	"unplunderable" 1
+outfit "Phenomenon Submunition"
+	"unplunderable" 1
+outfit "Deuterium"
+	"unplunderable" 1
+outfit "Unknown Element"
+	"unplunderable" 1
+ship "Unstable Wormhole"
+	"uncapturable"
+ship "Unstable Wormhole" "Unstable Wormhole (?)"
+	"uncapturable"
+ship "Hyperspace Anomaly"
+	"uncapturable"
+ship "Comet"
+	"uncapturable"
+ship "Comet" "Mysterious Comet"
+	"uncapturable"

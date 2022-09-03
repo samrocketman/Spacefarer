@@ -1,0 +1,2 @@
+ship "Grakerat 572" "Grakerat 572 (Scar)"
+	"uncapturable"

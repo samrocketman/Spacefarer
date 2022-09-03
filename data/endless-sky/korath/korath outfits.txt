@@ -76,7 +76,7 @@ outfit "Steering (Planetary Class)"
 	"unplunderable" 1
 outfit "Steering (Stellar Class)"
 	"unplunderable" 1
-outfit "Korath Repeater Rifle"
+outfit "Thermal Repeater Rifle"
 	"unplunderable" 1
 outfit "Microbot Defense Station"
 	"unplunderable" 1

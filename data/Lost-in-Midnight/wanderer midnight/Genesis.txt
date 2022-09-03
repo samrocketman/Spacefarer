@@ -1,0 +1,44 @@
+outfit "Cryo Chamber"
+	"unplunderable" 1
+outfit "Cryostasis Pod"
+	"unplunderable" 1
+outfit "Scanner"
+	"unplunderable" 1
+outfit "Laser"
+	"unplunderable" 1
+outfit "Anti-Missile"
+	"unplunderable" 1
+outfit "Gat"
+	"unplunderable" 1
+outfit "Tiny Battery"
+	"unplunderable" 1
+outfit "Small Battery"
+	"unplunderable" 1
+outfit "Medium Battery"
+	"unplunderable" 1
+outfit "Small Photovoltaic"
+	"unplunderable" 1
+outfit "Tiny Fuel Cell"
+	"unplunderable" 1
+outfit "Radiothermal"
+	"unplunderable" 1
+outfit "Thermionic"
+	"unplunderable" 1
+outfit "Fusion"
+	"unplunderable" 1
+outfit "Engines"
+	"unplunderable" 1
+ship "Genesis Spacecraft"
+	"uncapturable"
+ship "Genesis Spacecraft" "Genesis Freighter"
+	"uncapturable"
+ship "Genesis Probe"
+	"uncapturable"
+ship "Genesis Transport"
+	"uncapturable"
+ship "Genesis Cryoship"
+	"uncapturable"
+ship "Thunder Maker" "Thunder Maker B"
+	"uncapturable"
+ship "Thunder Maker" "Thunder Maker C"
+	"uncapturable"

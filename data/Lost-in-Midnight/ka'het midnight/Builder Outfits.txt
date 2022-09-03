@@ -1,0 +1,20 @@
+outfit "Ka'het Scanner"
+	"unplunderable" 1
+outfit "Graveyard Map"
+	"unplunderable" 1
+outfit "Builder IFF (Damaged)"
+	"unplunderable" 1
+outfit "Builder IFF Transmitter"
+	"unplunderable" 1
+outfit "Builder Negator"
+	"unplunderable" 1
+outfit "Builder Anti-Missile"
+	"unplunderable" 1
+outfit "Builder Grand Cooling"
+	"unplunderable" 1
+outfit "Builder Grand Defense"
+	"unplunderable" 1
+outfit "Builder Grand Generator"
+	"unplunderable" 1
+outfit "Builder Grand Accumulator"
+	"unplunderable" 1

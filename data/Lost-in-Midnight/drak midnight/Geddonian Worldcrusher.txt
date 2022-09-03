@@ -1,0 +1,12 @@
+outfit "Graviton Channeler"
+	"unplunderable" 1
+outfit "Quantum Paradox Diffusion"
+	"unplunderable" 1
+outfit "Quantum Paradox Inversion"
+	"unplunderable" 1
+outfit "Quantum Paradox Propulsion"
+	"unplunderable" 1
+outfit "Imaginary Number Fusion Matrix"
+	"unplunderable" 1
+ship "Worldcrusher"
+	"uncapturable"

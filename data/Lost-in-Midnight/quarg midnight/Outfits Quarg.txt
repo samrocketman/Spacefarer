@@ -1,0 +1,12 @@
+outfit "Obsolete Star Map"
+	"unplunderable" 1
+outfit "Celestial Compass"
+	"unplunderable" 1
+outfit "Midnight's Lost Orphan"
+	"unplunderable" 1
+outfit "Nanotech Battery (Damaged)"
+	"unplunderable" 1
+outfit "Quantum Shield Generator (Damaged)"
+	"unplunderable" 1
+outfit "Antimatter Core (Damaged)"
+	"unplunderable" 1

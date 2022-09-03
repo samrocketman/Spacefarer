@@ -1,0 +1,42 @@
+outfit "Energy Absorber?"
+	"unplunderable" 1
+outfit "Festering Boil"
+	"unplunderable" 1
+outfit "Festering Boil Submunition"
+	"unplunderable" 1
+outfit "Blight Leak"
+	"unplunderable" 1
+outfit "Flame Leak"
+	"unplunderable" 1
+outfit "Energy Drainer?"
+	"unplunderable" 1
+outfit "Blight Defense?"
+	"unplunderable" 1
+outfit "Blood Lightning?"
+	"unplunderable" 1
+ship "Blight Shadow"
+	"uncapturable"
+ship "Blight Shadow" "Blight Hatchling"
+	"uncapturable"
+ship "Grakerat 572" "Grakerat 572 (Infested)"
+	"uncapturable"
+ship "Korath Devourer" "Korath Devourer (Infested)"
+	"uncapturable"
+ship "Korath Raider" "Korath Raider (Infested)"
+	"uncapturable"
+ship "Korath Dredger" "Korath Dredger (Infested)"
+	"uncapturable"
+ship "Model 512" "Model 512 (Infested)"
+	"uncapturable"
+ship "Model 256" "Model 256 (Infested)"
+	"uncapturable"
+ship "Kar Ik Vot 349" "Kar Ik Vot 349 (Infested)"
+	"uncapturable"
+ship "Tek Far 71 - Lek" "Tek Far 71 - Lek (Infested)"
+	"uncapturable"
+ship "Tek Far 78 - Osk" "Tek Far 78 - Osk (Infested)"
+	"uncapturable"
+ship "Blight Mutation"
+	"uncapturable"
+ship "Blight Horror"
+	"uncapturable"

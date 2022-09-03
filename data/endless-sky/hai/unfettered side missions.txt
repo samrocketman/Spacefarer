@@ -1,0 +1,10 @@
+outfit "Loot"
+	"unplunderable" 1
+outfit "Mystery Cube"
+	"unplunderable" 1
+ship "Behemoth" "Behemoth (Mammoth)"
+	"uncapturable"
+ship "Corvette" "Corvette (Harpy)"
+	"uncapturable"
+ship "Marauder Leviathan" "Leviathan (Cube)"
+	"uncapturable"

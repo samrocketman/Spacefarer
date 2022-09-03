@@ -1,0 +1,6 @@
+ship "Nightingale"
+	"uncapturable"
+ship "Prefect's Albatross"
+	"uncapturable"
+ship "Raptor Prototype"
+	"uncapturable"

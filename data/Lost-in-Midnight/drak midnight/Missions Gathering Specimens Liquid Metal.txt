@@ -1,0 +1,6 @@
+outfit "Metal Tentacle?"
+	"unplunderable" 1
+outfit "Liquid Metal Specimen"
+	"unplunderable" 1
+ship "Liquid Metal"
+	"uncapturable"

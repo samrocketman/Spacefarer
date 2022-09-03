@@ -1,0 +1,2 @@
+outfit "Scrap Metal"
+	"unplunderable" 1

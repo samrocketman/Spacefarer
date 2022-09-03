@@ -1,0 +1,4 @@
+ship "Bastion" "Bastion (Materials)"
+	"uncapturable"
+ship "Argosy" "Argosy (Materials)"
+	"uncapturable"

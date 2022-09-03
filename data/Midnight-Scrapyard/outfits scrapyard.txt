@@ -1,0 +1,44 @@
+outfit "Automine Deployer"
+	"unplunderable" 1
+outfit "Blight Rifle"
+	"unplunderable" 1
+outfit "Blight Shadow Eggs"
+	"unplunderable" 1
+outfit "Korath Afterburner"
+	"unplunderable" 1
+outfit "Korath Eliminator"
+	"unplunderable" 1
+outfit "Korath Tormentor"
+	"unplunderable" 1
+outfit "Korath Grappler"
+	"unplunderable" 1
+outfit "Korath Incinerator"
+	"unplunderable" 1
+outfit "Korath Smelter"
+	"unplunderable" 1
+outfit "Korath Scanner"
+	"unplunderable" 1
+outfit "Korath Scattermine"
+	"unplunderable" 1
+outfit "Korath Sentinel"
+	"unplunderable" 1
+outfit "Korath Tractor"
+	"unplunderable" 1
+outfit "Node 8 Jammer"
+	"unplunderable" 1
+outfit "Node 8 Processor"
+	"unplunderable" 1
+outfit "Obsolete Transceiver"
+	"unplunderable" 1
+outfit "Slicer Torch"
+	"unplunderable" 1
+outfit "Triple Plasma Core (Damaged)"
+	"unplunderable" 1
+outfit "Hyperdrive (Damaged)"
+	"unplunderable" 1
+outfit "Thruster (Planetary Class)(Damaged)"
+	"unplunderable" 1
+outfit "Steering (Planetary Class)(Damaged)"
+	"unplunderable" 1
+outfit "Efret Salvage License"
+	"unplunderable" 1

@@ -1,0 +1,32 @@
+outfit "Gray Eye Specimen"
+	"unplunderable" 1
+outfit "Luminazoa Specimen"
+	"unplunderable" 1
+outfit "Leech Specimen"
+	"unplunderable" 1
+outfit "Nautilus Specimen"
+	"unplunderable" 1
+outfit "Plasma Specimen"
+	"unplunderable" 1
+outfit "Firefly Specimen"
+	"unplunderable" 1
+outfit "Gazer Specimen"
+	"unplunderable" 1
+ship "Gray Eye" "Gray Eye Specimen"
+	"uncapturable"
+ship "Luminazoa" "Luminazoa Specimen"
+	"uncapturable"
+ship "Ionic Leech" "Ionic Leech Specimen"
+	"uncapturable"
+ship "Astero Nautilus" "Astero Nautilus Specimen"
+	"uncapturable"
+ship "Plasma Parasite" "Plasma Parasite Specimen"
+	"uncapturable"
+ship "Nova Firefly" "Nova Firefly Specimen"
+	"uncapturable"
+ship "Star Gazer" "Star Gazer Specimen"
+	"uncapturable"
+ship "Raptor Prototype" "Raptor Prototype (unarmed)"
+	"uncapturable"
+ship "Storm Seeker" "Storm Seeker Reborn"
+	"uncapturable"

@@ -1,0 +1,6 @@
+outfit "Flare Belcher"
+	"unplunderable" 1
+outfit "Lightning Tendril"
+	"unplunderable" 1
+outfit "Quill Launcher"
+	"unplunderable" 1

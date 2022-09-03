@@ -1,0 +1,4 @@
+ship "Pelican" "Pelican (disarmed)"
+	"uncapturable"
+ship "Ibis" "Ibis (disarmed)"
+	"uncapturable"

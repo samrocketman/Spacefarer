@@ -1,3 +1,5 @@
+ship "Mining Drone"
+	"uncapturable"
 ship "Aerie"
 	"uncapturable"
 ship "Argosy"

@@ -2,7 +2,15 @@ outfit "Pulse Cannon"
 	"unplunderable" 1
 outfit "Pulse Turret"
 	"unplunderable" 1
+outfit "Tripulse Shredder"
+	"unplunderable" 1
 outfit "Ion Cannon"
+	"unplunderable" 1
+outfit "True Unfettered License"
+	"unplunderable" 1
+outfit "Ionic Blaster Prototype"
+	"unplunderable" 1
+outfit "Ionic Turret Prototype"
 	"unplunderable" 1
 outfit "Railgun Slug"
 	"unplunderable" 1
@@ -28,7 +36,11 @@ outfit "Hai Diamond Regenerator"
 	"unplunderable" 1
 outfit "Hai Williwaw Cooling"
 	"unplunderable" 1
+outfit "Hai Zephyr Cooling"
+	"unplunderable" 1
 outfit "Quantum Keystone"
+	"unplunderable" 1
+outfit "Value Detector"
 	"unplunderable" 1
 outfit "Hai Chasm Batteries"
 	"unplunderable" 1
@@ -71,6 +83,8 @@ outfit `"Bondir" Atomic Steering`
 outfit `"Bufaer" Atomic Steering`
 	"unplunderable" 1
 outfit "Pulse Rifle"
+	"unplunderable" 1
+outfit "Dual Pulse Pistols"
 	"unplunderable" 1
 outfit "Shield Beetle Pendant"
 	"unplunderable" 1

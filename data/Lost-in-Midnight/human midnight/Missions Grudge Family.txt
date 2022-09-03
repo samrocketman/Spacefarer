@@ -1,0 +1,6 @@
+ship "Marauder Hauler" "Relentless Grudge"
+	"uncapturable"
+ship "War Hauler" "Grudge Hammer"
+	"uncapturable"
+ship "Modified Argosy" "Modified Argosy (Drug Smuggler)"
+	"uncapturable"

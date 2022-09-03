@@ -1,0 +1,2 @@
+outfit "Anti-Ionic Plating"
+	"unplunderable" 1

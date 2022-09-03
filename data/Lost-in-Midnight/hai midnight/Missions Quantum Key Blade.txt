@@ -1,0 +1,4 @@
+ship "Archon" "Archon (hallucination)"
+	"uncapturable"
+ship "Shield Beetle" "Shield Beetle (hallucination)"
+	"uncapturable"

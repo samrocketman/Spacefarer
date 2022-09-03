@@ -1,0 +1,82 @@
+outfit "Drone Hacking"
+	"unplunderable" 1
+outfit "Engineering Room"
+	"unplunderable" 1
+outfit "Medical Bay"
+	"unplunderable" 1
+outfit "North Wind Cooling"
+	"unplunderable" 1
+outfit "Gnome Core"
+	"unplunderable" 1
+outfit "Fission S2 Reactor"
+	"unplunderable" 1
+outfit "Heavy Fusion Core"
+	"unplunderable" 1
+outfit "Inferno Rocket"
+	"unplunderable" 1
+outfit "Inferno Rocket Rack"
+	"unplunderable" 1
+outfit "Inferno Rocket Launcher"
+	"unplunderable" 1
+outfit "Proton Gun-CF8"
+	"unplunderable" 1
+outfit "Hybrid Afterburner"
+	"unplunderable" 1
+outfit "Sunracer Afterburner"
+	"unplunderable" 1
+outfit "Silencer Beam"
+	"unplunderable" 1
+outfit "Energy Cannon"
+	"unplunderable" 1
+outfit "Energy Blast"
+	"unplunderable" 1
+outfit "Residual Energy Blast"
+	"unplunderable" 1
+outfit "Plasma Cluster Cannon"
+	"unplunderable" 1
+outfit "Carabao AI"
+	"unplunderable" 1
+outfit "Alien Torture Device"
+	"unplunderable" 1
+outfit "Asteroid Storage"
+	"unplunderable" 1
+outfit "Metallic Asteroid"
+	"unplunderable" 1
+outfit "Asteroid Catapult"
+	"unplunderable" 1
+outfit "Asteroid Deterioration"
+	"unplunderable" 1
+outfit "Catapult Schematics"
+	"unplunderable" 1
+outfit "Almachian Brain Maggots"
+	"unplunderable" 1
+outfit "Balthazar Model"
+	"unplunderable" 1
+outfit "Cloaking Device (Damaged)"
+	"unplunderable" 1
+outfit "H6 Refrigeration Module"
+	"unplunderable" 1
+outfit "Infiltrator Tech"
+	"unplunderable" 1
+outfit "Leviathan Comic"
+	"unplunderable" 1
+outfit "Leviathan Comic #1"
+	"unplunderable" 1
+outfit "Liquid Metal Hull"
+	"unplunderable" 1
+outfit "Melchior Post Card"
+	"unplunderable" 1
+outfit "Microwave Cannon"
+	"unplunderable" 1
+outfit "Reasoning Node (Damaged)"
+	"unplunderable" 1
+outfit "Sniper Rifle"
+	"unplunderable" 1
+outfit "Subsidurial Plushie"
+	"unplunderable" 1
+outfit "Systems Core (Damaged)"
+	"unplunderable" 1
+outfit "T.H.O.R."
+	"unplunderable" 1
+outfit "T.H.O.R. (Damaged)"
+	"unplunderable" 1

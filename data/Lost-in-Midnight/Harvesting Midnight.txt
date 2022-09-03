@@ -1,0 +1,14 @@
+outfit "Quantumium"
+	"unplunderable" 1
+outfit "Fossil"
+	"unplunderable" 1
+outfit "Mysterious Treasure"
+	"unplunderable" 1
+outfit "Earth Artifact"
+	"unplunderable" 1
+outfit "Alien Artifact"
+	"unplunderable" 1
+outfit "Space Junk"
+	"unplunderable" 1
+outfit "Dysprosium"
+	"unplunderable" 1

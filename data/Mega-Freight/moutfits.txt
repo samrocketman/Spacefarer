@@ -1,0 +1,80 @@
+outfit "Bagger Excavator"
+	"unplunderable" 1
+outfit "Espion Mining Laser"
+	"unplunderable" 1
+outfit "MRF-10 EM Clamp"
+	"unplunderable" 1
+outfit "Mixture-DX Corrosive Thrower"
+	"unplunderable" 1
+outfit "Mixture-DX Shots"
+	"unplunderable" 1
+outfit "MRF-SS Scrambler"
+	"unplunderable" 1
+outfit "Atesac Plasma Cannon"
+	"unplunderable" 1
+outfit "G22 Particle Cannon"
+	"unplunderable" 1
+outfit "G22 Particle Turret"
+	"unplunderable" 1
+outfit "M6-ACS Artillery"
+	"unplunderable" 1
+outfit "M6-ACS Artillery Turret"
+	"unplunderable" 1
+outfit "V85 Railgun"
+	"unplunderable" 1
+outfit "V85 Railgun Turret"
+	"unplunderable" 1
+outfit "ExP314 Railcannon"
+	"unplunderable" 1
+outfit "EMX-55 Flakcannon"
+	"unplunderable" 1
+outfit "EMX-55 Flakcannon Turret"
+	"unplunderable" 1
+outfit "EL-1388 Aphelion Turret"
+	"unplunderable" 1
+outfit "el-1388 frag 1"
+	"unplunderable" 1
+outfit "el-1388 frag 2"
+	"unplunderable" 1
+outfit "CMX-12 Anti-Missile"
+	"unplunderable" 1
+outfit "4C-1 Detonator"
+	"unplunderable" 1
+outfit "4C-1 Bomb Charge"
+	"unplunderable" 1
+outfit "Swordfish Missile"
+	"unplunderable" 1
+outfit "Swordfish Missile Rack"
+	"unplunderable" 1
+outfit "Swordfish Missile Turret"
+	"unplunderable" 1
+outfit "swordfish missile activated"
+	"unplunderable" 1
+outfit "Mjolnir Missile"
+	"unplunderable" 1
+outfit "Mjolnir Launcher"
+	"unplunderable" 1
+outfit "Spearfish Missile"
+	"unplunderable" 1
+outfit "Spearfish VLS Array"
+	"unplunderable" 1
+outfit "Spearfish Launcher Array"
+	"unplunderable" 1
+outfit "QB-10 Box Missile"
+	"unplunderable" 1
+outfit "MX30 Sirius Core"
+	"unplunderable" 1
+outfit "DX-30k Shield Hub"
+	"unplunderable" 1
+outfit "SX-12 Shield Node"
+	"unplunderable" 1
+outfit "NX-40k Repair Center"
+	"unplunderable" 1
+outfit "Espion Value Detector"
+	"unplunderable" 1
+outfit "E-XE10 Ion Maneuver Engine"
+	"unplunderable" 1
+outfit "Espion Employee License"
+	"unplunderable" 1
+outfit "Syndicate Platinum License"
+	"unplunderable" 1

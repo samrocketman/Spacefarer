@@ -1,0 +1,4 @@
+ship "Korath World-Ship" "Scrapyard World-Ship (Crippled)"
+	"uncapturable"
+ship "Korath World-Ship" "Korath World-Ship D (Crippled)"
+	"uncapturable"

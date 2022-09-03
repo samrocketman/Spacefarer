@@ -1,0 +1,2 @@
+ship "Behemoth" "Behemoth (Jumper)"
+	"uncapturable"

@@ -7,8 +7,13 @@ if [ "$#" -eq 0 ]; then
   exit 1
 fi
 
+function canonicalize() (
+  cd "$1"
+  echo "$PWD"
+)
+
 plugin_name="Spacefarer plugin"
-data_sub_folder="${1%/}"
+data_sub_folder="$(canonicalize "$1")"
 data_sub_folder="${data_sub_folder##*/}"
 
 #

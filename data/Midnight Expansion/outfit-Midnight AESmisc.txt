@@ -1,0 +1,24 @@
+outfit "Quarg Ranseur"
+	"unplunderable" 1
+outfit "Quarg Skydagger"
+	"unplunderable" 1
+outfit "Quarg Culverin"
+	"unplunderable" 1
+outfit "Culverin Submunition"
+	"unplunderable" 1
+outfit "Central Repair Hub"
+	"unplunderable" 1
+outfit "Fluxion Shield Generator"
+	"unplunderable" 1
+outfit "Infimum Shield Generator"
+	"unplunderable" 1
+outfit "Peripheral Repair Hub"
+	"unplunderable" 1
+outfit "Singularity Core"
+	"unplunderable" 1
+outfit "Tachyon Core"
+	"unplunderable" 1
+outfit "Large Graviton Thruster"
+	"unplunderable" 1
+outfit "Small Graviton Thruster"
+	"unplunderable" 1

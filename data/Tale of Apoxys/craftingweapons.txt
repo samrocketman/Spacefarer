@@ -1,0 +1,20 @@
+outfit "Dragonsbreath Battery"
+	"unplunderable" 1
+outfit "Starcutter Turret"
+	"unplunderable" 1
+outfit "Interdiction Turret"
+	"unplunderable" 1
+outfit "Multi-Disruptor"
+	"unplunderable" 1
+outfit "Rampager Battery"
+	"unplunderable" 1
+outfit "Lightning Striker"
+	"unplunderable" 1
+outfit "Lightning Strike Magazine"
+	"unplunderable" 1
+outfit "Lightning Strike Deployer"
+	"unplunderable" 1
+outfit "Lightning Primer"
+	"unplunderable" 1
+outfit "Lightning Secondary"
+	"unplunderable" 1

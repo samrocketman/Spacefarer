@@ -1,0 +1,30 @@
+outfit "High Basal Level"
+	"unplunderable" 1
+outfit "High Level Shields"
+	"unplunderable" 1
+outfit "High Level Hull"
+	"unplunderable" 1
+outfit "High Level Outfit"
+	"unplunderable" 1
+outfit "High Level Cargo"
+	"unplunderable" 1
+outfit "High Level Weapons"
+	"unplunderable" 1
+outfit "High Level Engines"
+	"unplunderable" 1
+outfit "High Level Bunks"
+	"unplunderable" 1
+outfit "Level 40 Milestone"
+	"unplunderable" 1
+outfit "Level 33 Radar Jammer"
+	"unplunderable" 1
+outfit "Level 33 Scan Blocker"
+	"unplunderable" 1
+outfit "Level 36 Auxiliary Power"
+	"unplunderable" 1
+outfit "Level 36 Fuel Refinery"
+	"unplunderable" 1
+outfit "Level 39 Damage Resistance"
+	"unplunderable" 1
+outfit "Level 39 Repair Optimizer"
+	"unplunderable" 1

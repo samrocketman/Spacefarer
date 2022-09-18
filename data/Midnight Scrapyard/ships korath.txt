@@ -1,3 +1,5 @@
+ship "Korath Raider" "Korath Raider (Scrapyard)"
+	"uncapturable"
 ship "Korath Raider" "Korath Scrapper (shields)"
 	"uncapturable"
 ship "Korath Raider" "Korath Scrapper (weapons)"

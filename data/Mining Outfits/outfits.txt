@@ -1,0 +1,4 @@
+outfit "Drone Bay"
+	"unplunderable" 1
+outfit "Fighter Bay"
+	"unplunderable" 1

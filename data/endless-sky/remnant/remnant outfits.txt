@@ -36,6 +36,8 @@ outfit "Thermoelectric Cooler"
 	"unplunderable" 1
 outfit "Emergency Ramscoop"
 	"unplunderable" 1
+outfit "NDR-114 Android"
+	"unplunderable" 1
 outfit "Research Laboratory"
 	"unplunderable" 1
 outfit "Quantum Key Stone"

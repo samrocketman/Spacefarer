@@ -1,0 +1,2 @@
+ship "Marauder Vanguard" "Marauder Vanguard (Ranseur)"
+	"uncapturable"

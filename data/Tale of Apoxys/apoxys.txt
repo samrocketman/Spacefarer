@@ -1,0 +1,4 @@
+outfit "Apoxys Core"
+	"unplunderable" 1
+ship "Apoxys"
+	"uncapturable"

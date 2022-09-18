@@ -1,0 +1,6 @@
+outfit "Key Drive"
+	"unplunderable" 1
+outfit "Shunted Tri-Triple Plasma Core"
+	"unplunderable" 1
+outfit "Systems Core (Overloaded)"
+	"unplunderable" 1

@@ -18,8 +18,6 @@ outfit "Mass Expansion"
 	"unplunderable" 1
 outfit "Reverse Thruster"
 	"unplunderable" 1
-outfit "NDR-114 Android"
-	"unplunderable" 1
 outfit "Bullfrog Anti-Missile Turret"
 	"unplunderable" 1
 outfit "Chameleon Anti-Missile Turret"

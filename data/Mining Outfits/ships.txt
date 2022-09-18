@@ -1,0 +1,2 @@
+ship "Mining Drone"
+	"uncapturable"

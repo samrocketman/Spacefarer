@@ -1,0 +1,4 @@
+ship "Model 8" "Model 8 (disruptor)"
+	"uncapturable"
+ship "Model 8" "Model 8 (minelayer)"
+	"uncapturable"

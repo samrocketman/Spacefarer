@@ -1,0 +1,30 @@
+outfit "Superior Basal Level"
+	"unplunderable" 1
+outfit "Superior Level Shields"
+	"unplunderable" 1
+outfit "Superior Level Hull"
+	"unplunderable" 1
+outfit "Superior Level Outfit"
+	"unplunderable" 1
+outfit "Superior Level Cargo"
+	"unplunderable" 1
+outfit "Superior Level Weapons"
+	"unplunderable" 1
+outfit "Superior Level Engines"
+	"unplunderable" 1
+outfit "Superior Level Bunks"
+	"unplunderable" 1
+outfit "Level 50 Milestone"
+	"unplunderable" 1
+outfit "Level 42 Radiators"
+	"unplunderable" 1
+outfit "Level 42 Mass Reduction"
+	"unplunderable" 1
+outfit "Level 45 Shield Reinforcment"
+	"unplunderable" 1
+outfit "Level 39 Hull Reinforcement"
+	"unplunderable" 1
+outfit "Level 48 Fuel Tank Boost"
+	"unplunderable" 1
+outfit "Level 48 Capture Weapons"
+	"unplunderable" 1

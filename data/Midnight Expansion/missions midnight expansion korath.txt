@@ -1,0 +1,2 @@
+ship "Korath Warlord" "Korath Warlord (Prototype)"
+	"uncapturable"

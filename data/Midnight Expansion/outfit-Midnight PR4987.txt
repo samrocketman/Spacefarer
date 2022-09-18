@@ -1,0 +1,16 @@
+outfit "Korath Electro Shocker"
+	"unplunderable" 1
+outfit "Korath Shocker Turret"
+	"unplunderable" 1
+outfit "Korath Shock-Strike"
+	"unplunderable" 1
+outfit "Korath Waste"
+	"unplunderable" 1
+outfit "Korath Waste Launcher"
+	"unplunderable" 1
+outfit "Korath Waste Submunition"
+	"unplunderable" 1
+outfit "Fuel Refiner"
+	"unplunderable" 1
+outfit "Korath Defense Drone"
+	"unplunderable" 1

@@ -1,0 +1,2 @@
+ship "Ancient Raider"
+	"uncapturable"

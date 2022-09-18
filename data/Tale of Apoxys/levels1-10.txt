@@ -1,0 +1,30 @@
+outfit "Low Basal Level"
+	"unplunderable" 1
+outfit "Low Level Shields"
+	"unplunderable" 1
+outfit "Low Level Hull"
+	"unplunderable" 1
+outfit "Low Level Outfit"
+	"unplunderable" 1
+outfit "Low Level Cargo"
+	"unplunderable" 1
+outfit "Low Level Weapons"
+	"unplunderable" 1
+outfit "Low Level Engines"
+	"unplunderable" 1
+outfit "Low Level Bunks"
+	"unplunderable" 1
+outfit "Level 10 Milestone"
+	"unplunderable" 1
+outfit "Level 3 Shield Overclock"
+	"unplunderable" 1
+outfit "Level 3 Radiators"
+	"unplunderable" 1
+outfit "Level 6 Mass Trim"
+	"unplunderable" 1
+outfit "Level 6 Heat Sinks"
+	"unplunderable" 1
+outfit "Level 9 Shield Hardener"
+	"unplunderable" 1
+outfit "Level 9 Impact Plating"
+	"unplunderable" 1

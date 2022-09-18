@@ -2,6 +2,8 @@ outfit "Loot"
 	"unplunderable" 1
 outfit "Mystery Cube"
 	"unplunderable" 1
+ship "Auxiliary" "Auxiliary (Alpha with supplies)"
+	"uncapturable"
 ship "Behemoth" "Behemoth (Mammoth)"
 	"uncapturable"
 ship "Corvette" "Corvette (Harpy)"

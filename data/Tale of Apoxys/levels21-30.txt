@@ -1,0 +1,34 @@
+outfit "Medium Basal Level"
+	"unplunderable" 1
+outfit "Medium Level Shields"
+	"unplunderable" 1
+outfit "Medium Level Hull"
+	"unplunderable" 1
+outfit "Medium Level Outfit"
+	"unplunderable" 1
+outfit "Medium Level Cargo"
+	"unplunderable" 1
+outfit "Medium Level Weapons"
+	"unplunderable" 1
+outfit "Medium Level Engines"
+	"unplunderable" 1
+outfit "Medium Level Bunks"
+	"unplunderable" 1
+outfit "Level 30 Milestone"
+	"unplunderable" 1
+outfit "Level 21 Speed Up"
+	"unplunderable" 1
+outfit "Level 21 Radiators"
+	"unplunderable" 1
+outfit "Level 24 Heat Resistance"
+	"unplunderable" 1
+outfit "Level 24 Energy Resistance"
+	"unplunderable" 1
+outfit "Level 27 Disruption Resistance"
+	"unplunderable" 1
+outfit "Level 27 Slowing Resistance"
+	"unplunderable" 1
+outfit "Level 30 Spinal Mount"
+	"unplunderable" 1
+outfit "Level 30 Cloaking Field"
+	"unplunderable" 1

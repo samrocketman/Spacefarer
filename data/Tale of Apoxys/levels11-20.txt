@@ -1,0 +1,30 @@
+outfit "Modest Basal Level"
+	"unplunderable" 1
+outfit "Modest Level Shields"
+	"unplunderable" 1
+outfit "Modest Level Hull"
+	"unplunderable" 1
+outfit "Modest Level Outfit"
+	"unplunderable" 1
+outfit "Modest Level Cargo"
+	"unplunderable" 1
+outfit "Modest Level Weapons"
+	"unplunderable" 1
+outfit "Modest Level Engines"
+	"unplunderable" 1
+outfit "Modest Level Bunks"
+	"unplunderable" 1
+outfit "Level 20 Milestone"
+	"unplunderable" 1
+outfit "Level 12 ISG"
+	"unplunderable" 1
+outfit "Level 12 IHR"
+	"unplunderable" 1
+outfit "Level 15 Integral Ramscoop"
+	"unplunderable" 1
+outfit "Level 15 Fuel Recycler"
+	"unplunderable" 1
+outfit "Level 18 Storagenerator"
+	"unplunderable" 1
+outfit "Level 18 Pure Generator"
+	"unplunderable" 1

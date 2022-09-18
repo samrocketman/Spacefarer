@@ -1,0 +1,8 @@
+outfit "Remnant Ship Organs"
+	"unplunderable" 1
+outfit "Remnant Ship Organs (Lv. 20)"
+	"unplunderable" 1
+outfit "Remnant Ship Organs (Lv. 30)"
+	"unplunderable" 1
+outfit "Remnant Ship Organs (Lv. 40)"
+	"unplunderable" 1

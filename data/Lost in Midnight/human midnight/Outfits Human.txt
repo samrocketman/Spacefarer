@@ -74,8 +74,6 @@ outfit "Sniper Rifle"
 	"unplunderable" 1
 outfit "Subsidurial Plushie"
 	"unplunderable" 1
-outfit "Systems Core (Damaged)"
-	"unplunderable" 1
 outfit "T.H.O.R."
 	"unplunderable" 1
 outfit "T.H.O.R. (Damaged)"

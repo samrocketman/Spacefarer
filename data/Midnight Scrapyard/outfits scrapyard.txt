@@ -32,6 +32,8 @@ outfit "Obsolete Transceiver"
 	"unplunderable" 1
 outfit "Slicer Torch"
 	"unplunderable" 1
+outfit "Systems Core (Damaged)"
+	"unplunderable" 1
 outfit "Triple Plasma Core (Damaged)"
 	"unplunderable" 1
 outfit "Hyperdrive (Damaged)"

@@ -1,0 +1,4 @@
+outfit "Korath Disruptor Gun"
+	"unplunderable" 1
+outfit "Vector Engine (Reality Class)"
+	"unplunderable" 1

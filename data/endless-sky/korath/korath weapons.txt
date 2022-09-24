@@ -60,3 +60,9 @@ outfit "Firelight Turning"
 	"unplunderable" 1
 outfit "Firelight Activated"
 	"unplunderable" 1
+outfit "Firestorm Torpedo"
+	"unplunderable" 1
+outfit "Firestorm Torpedo Rack"
+	"unplunderable" 1
+outfit "Firestorm Battery"
+	"unplunderable" 1

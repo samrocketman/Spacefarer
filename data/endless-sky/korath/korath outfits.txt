@@ -76,6 +76,22 @@ outfit "Steering (Planetary Class)"
 	"unplunderable" 1
 outfit "Steering (Stellar Class)"
 	"unplunderable" 1
+outfit "Arkrof GP Hybrid Thruster"
+	"unplunderable" 1
+outfit "Farves GP Hybrid Thruster"
+	"unplunderable" 1
+outfit "Gaktem GP Hybrid Thruster"
+	"unplunderable" 1
+outfit "Nelmeb GP Hybrid Thruster"
+	"unplunderable" 1
+outfit "Arkrof GP Hybrid Steering"
+	"unplunderable" 1
+outfit "Farves GP Hybrid Steering"
+	"unplunderable" 1
+outfit "Gaktem GP Hybrid Steering"
+	"unplunderable" 1
+outfit "Nelmeb GP Hybrid Steering"
+	"unplunderable" 1
 outfit "Thermal Repeater Rifle"
 	"unplunderable" 1
 outfit "Microbot Defense Station"

@@ -4,6 +4,8 @@ outfit "Mystery Cube"
 	"unplunderable" 1
 ship "Auxiliary" "Auxiliary (Alpha with supplies)"
 	"uncapturable"
+ship "Marauder Falcon" "Marauder Falcon (Weapons, Bars)"
+	"uncapturable"
 ship "Behemoth" "Behemoth (Mammoth)"
 	"uncapturable"
 ship "Corvette" "Corvette (Harpy)"

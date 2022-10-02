@@ -1,0 +1,8 @@
+outfit "Korath Fireswarm Nest"
+	"unplunderable" 1
+outfit "Korath Fireswarm"
+	"unplunderable" 1
+outfit "Korath Fireswarm Launcher"
+	"unplunderable" 1
+outfit "Fireswarm Submunition"
+	"unplunderable" 1

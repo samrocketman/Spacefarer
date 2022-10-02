@@ -1,3 +1,7 @@
+ship "Armor Beetle"
+	"uncapturable"
+ship "Armor Beetle" "Armor Beetle (Jump)"
+	"uncapturable"
 ship "Millipede"
 	"uncapturable"
 ship "Megalocoleus"

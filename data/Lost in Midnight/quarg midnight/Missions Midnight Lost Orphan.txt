@@ -1,6 +1,6 @@
 ship "Korath Raider" "Korath Raider (Chaos Hammer)"
 	"uncapturable"
-ship "Shield Beetle" "Shield Beetle (Arctic Dragon)"
+ship "Armor Beetle" "Armor Beetle (Arctic Dragon)"
 	"uncapturable"
 ship "Prefect's Albatross" "Albatross (Night Sword)"
 	"uncapturable"

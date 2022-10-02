@@ -1,2 +1,0 @@
-ship "Bulk Freighter" "Bulk Freighter (hai drones)"
-	"uncapturable"

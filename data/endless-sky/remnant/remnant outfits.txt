@@ -64,6 +64,8 @@ outfit "Tuning Rifle"
 	"unplunderable" 1
 outfit "Void Rifle"
 	"unplunderable" 1
+outfit "Void Sprite Parts"
+	"unplunderable" 1
 outfit "Remnant License"
 	"unplunderable" 1
 outfit "Remnant Capital License"

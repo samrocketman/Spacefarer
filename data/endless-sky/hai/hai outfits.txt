@@ -72,6 +72,12 @@ outfit `"Bondir" Atomic Thruster`
 	"unplunderable" 1
 outfit `"Bufaer" Atomic Thruster`
 	"unplunderable" 1
+outfit `"Basrem" Reverse Thruster`
+	"unplunderable" 1
+outfit `"Benga" Reverse Thruster`
+	"unplunderable" 1
+outfit `"Biroo" Reverse Thruster`
+	"unplunderable" 1
 outfit `"Basrem" Atomic Steering`
 	"unplunderable" 1
 outfit `"Benga" Atomic Steering`

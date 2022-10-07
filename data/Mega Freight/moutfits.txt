@@ -1,5 +1,7 @@
 outfit "Bagger Excavator"
 	"unplunderable" 1
+outfit "Thyrupp Industrial Systems"
+	"unplunderable" 1
 outfit "Espion Mining Laser"
 	"unplunderable" 1
 outfit "MRF-10 EM Clamp"
@@ -10,7 +12,13 @@ outfit "Mixture-DX Shots"
 	"unplunderable" 1
 outfit "MRF-SS Scrambler"
 	"unplunderable" 1
+outfit "KC-344 Chainsaw"
+	"unplunderable" 1
 outfit "Atesac Plasma Cannon"
+	"unplunderable" 1
+outfit "EPB3-2 Particle Cannon"
+	"unplunderable" 1
+outfit "EPS-1 Particle Cannon"
 	"unplunderable" 1
 outfit "G22 Particle Cannon"
 	"unplunderable" 1
@@ -19,6 +27,10 @@ outfit "G22 Particle Turret"
 outfit "M6-ACS Artillery"
 	"unplunderable" 1
 outfit "M6-ACS Artillery Turret"
+	"unplunderable" 1
+outfit "V47 Plasma-Railgun"
+	"unplunderable" 1
+outfit "V47 Plasma-Railgun Turret"
 	"unplunderable" 1
 outfit "V85 Railgun"
 	"unplunderable" 1
@@ -30,6 +42,8 @@ outfit "EMX-55 Flakcannon"
 	"unplunderable" 1
 outfit "EMX-55 Flakcannon Turret"
 	"unplunderable" 1
+outfit "EMX-84 Pulse-Flak Turret"
+	"unplunderable" 1
 outfit "EL-1388 Aphelion Turret"
 	"unplunderable" 1
 outfit "el-1388 frag 1"
@@ -37,6 +51,8 @@ outfit "el-1388 frag 1"
 outfit "el-1388 frag 2"
 	"unplunderable" 1
 outfit "CMX-12 Anti-Missile"
+	"unplunderable" 1
+outfit "CMX-63 Kavacha Anti-Missile"
 	"unplunderable" 1
 outfit "4C-1 Detonator"
 	"unplunderable" 1
@@ -60,6 +76,10 @@ outfit "Spearfish VLS Array"
 	"unplunderable" 1
 outfit "Spearfish Launcher Array"
 	"unplunderable" 1
+outfit "AH-5 Eteron Torpedo"
+	"unplunderable" 1
+outfit "AH-5 Eteron Launch System"
+	"unplunderable" 1
 outfit "QB-10 Box Missile"
 	"unplunderable" 1
 outfit "MX30 Sirius Core"
@@ -72,9 +92,45 @@ outfit "NX-40k Repair Center"
 	"unplunderable" 1
 outfit "Espion Value Detector"
 	"unplunderable" 1
+outfit "Espion Ore Refinery Module"
+	"unplunderable" 1
+outfit "Tyrant Reverse Thruster"
+	"unplunderable" 1
 outfit "E-XE10 Ion Maneuver Engine"
 	"unplunderable" 1
 outfit "Espion Employee License"
 	"unplunderable" 1
 outfit "Syndicate Platinum License"
+	"unplunderable" 1
+outfit "GMS16 Steel"
+	"unplunderable" 1
+outfit "GMS23 Aluminum"
+	"unplunderable" 1
+outfit "GMS39 Copper"
+	"unplunderable" 1
+outfit "GMS49 Gold"
+	"unplunderable" 1
+outfit "GMS52 Lead"
+	"unplunderable" 1
+outfit "GMS60 Neodymium"
+	"unplunderable" 1
+outfit "GMS78 Platinum"
+	"unplunderable" 1
+outfit "GMS84 Silicon"
+	"unplunderable" 1
+outfit "GMS97 Silver"
+	"unplunderable" 1
+outfit "GMS02 Titanium"
+	"unplunderable" 1
+outfit "GMS14 Tungsten"
+	"unplunderable" 1
+outfit "GMS16 Steel Product"
+	"unplunderable" 1
+outfit "GMS23 Aluminum Product"
+	"unplunderable" 1
+outfit "GMS39 Copper Product"
+	"unplunderable" 1
+outfit "GMS02 Titanium Product"
+	"unplunderable" 1
+outfit "GMS14 Tungsten Product"
 	"unplunderable" 1

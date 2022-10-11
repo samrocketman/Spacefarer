@@ -4,6 +4,12 @@ outfit "Thyrupp Industrial Systems"
 	"unplunderable" 1
 outfit "Espion Mining Laser"
 	"unplunderable" 1
+outfit "Espion Mini-Mining Laser"
+	"unplunderable" 1
+outfit "JX-2 Overdriven Gatling Turret"
+	"unplunderable" 1
+outfit "jx1gbullet"
+	"unplunderable" 1
 outfit "MRF-10 EM Clamp"
 	"unplunderable" 1
 outfit "Mixture-DX Corrosive Thrower"
@@ -89,6 +95,8 @@ outfit "DX-30k Shield Hub"
 outfit "SX-12 Shield Node"
 	"unplunderable" 1
 outfit "NX-40k Repair Center"
+	"unplunderable" 1
+outfit "AJ-5 Business-class Suite"
 	"unplunderable" 1
 outfit "Espion Value Detector"
 	"unplunderable" 1

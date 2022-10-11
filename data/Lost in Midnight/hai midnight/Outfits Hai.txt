@@ -1,3 +1,5 @@
+outfit "Ion Flash Bang"
+	"unplunderable" 1
 outfit "Ion Pulse Cannon"
 	"unplunderable" 1
 outfit "Dual Pulse Pistols"

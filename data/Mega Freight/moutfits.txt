@@ -2,6 +2,8 @@ outfit "Bagger Excavator"
 	"unplunderable" 1
 outfit "Thyrupp Industrial Systems"
 	"unplunderable" 1
+outfit "Kotroger Excavator Turret"
+	"unplunderable" 1
 outfit "Espion Mining Laser"
 	"unplunderable" 1
 outfit "Espion Mini-Mining Laser"
@@ -60,6 +62,8 @@ outfit "CMX-12 Anti-Missile"
 	"unplunderable" 1
 outfit "CMX-63 Kavacha Anti-Missile"
 	"unplunderable" 1
+outfit "KC-421 Parapet Anti-Missile"
+	"unplunderable" 1
 outfit "4C-1 Detonator"
 	"unplunderable" 1
 outfit "4C-1 Bomb Charge"
@@ -96,7 +100,41 @@ outfit "SX-12 Shield Node"
 	"unplunderable" 1
 outfit "NX-40k Repair Center"
 	"unplunderable" 1
+outfit "M-type 1k Gas Tank"
+	"unplunderable" 1
+outfit "X09E Fighter Assembler"
+	"unplunderable" 1
+outfit "E1 Lance Blueprint"
+	"unplunderable" 1
 outfit "AJ-5 Business-class Suite"
+	"unplunderable" 1
+outfit "CR-3 Rollercoaster"
+	"unplunderable" 1
+outfit "D-UQ-3 Rollercoaster" #High chance to get spaceport offers when landing on urban or rich planet and hai
+	"unplunderable" 1
+outfit "Elion Compact Pool"
+	"unplunderable" 1
+outfit "Elion Medium Pool"
+	"unplunderable" 1
+outfit "Elion Large Pool"
+	"unplunderable" 1
+outfit "Elion Huge Pool"
+	"unplunderable" 1
+outfit "Elion Large Exotic Pool"
+	"unplunderable" 1
+outfit "IrdaSys Compact Cinema"
+	"unplunderable" 1
+outfit "IrdaSys Medium Cinema"
+	"unplunderable" 1
+outfit "IrdaSys Large Cinema"
+	"unplunderable" 1
+outfit "IrdaSys Large XMAX Cinema"
+	"unplunderable" 1
+outfit "IrdaSys Large Casino"
+	"unplunderable" 1
+outfit "Dalmod Small Bar"
+	"unplunderable" 1
+outfit "Dalmod Basic Bar"
 	"unplunderable" 1
 outfit "Espion Value Detector"
 	"unplunderable" 1
@@ -107,6 +145,10 @@ outfit "Tyrant Reverse Thruster"
 outfit "E-XE10 Ion Maneuver Engine"
 	"unplunderable" 1
 outfit "Espion Employee License"
+	"unplunderable" 1
+outfit "Amusement Equipment License"
+	"unplunderable" 1
+outfit "Casino Operator License"
 	"unplunderable" 1
 outfit "Syndicate Platinum License"
 	"unplunderable" 1
@@ -141,4 +183,6 @@ outfit "GMS39 Copper Product"
 outfit "GMS02 Titanium Product"
 	"unplunderable" 1
 outfit "GMS14 Tungsten Product"
+	"unplunderable" 1
+outfit "Liquid Natural Gas"
 	"unplunderable" 1

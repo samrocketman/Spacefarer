@@ -1,0 +1,6 @@
+outfit "Gold Bars"
+	"unplunderable" 1
+ship "Sea Scorpion" "Sari'Sea Scorpion (Pulse)"
+	"uncapturable"
+ship "Corvette" "Corvette (Harpy)"
+	"uncapturable"

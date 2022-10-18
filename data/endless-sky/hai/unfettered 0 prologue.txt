@@ -1,0 +1,4 @@
+outfit "Materials"
+	"unplunderable" 1
+ship "Bactrian" "Bactrian (Hydra)"
+	"uncapturable"

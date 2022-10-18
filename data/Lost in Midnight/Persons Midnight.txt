@@ -1,3 +1,7 @@
+outfit "Hackerz Plugin Omega"
+	"unplunderable" 1
+outfit "Hackerz Plugin Alpha"
+	"unplunderable" 1
 ship "Astero Nautilus" "Elder Astero Nautilus"
 	"uncapturable"
 ship "Modified Blackbird"

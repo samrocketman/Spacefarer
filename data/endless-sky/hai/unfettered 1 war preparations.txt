@@ -1,0 +1,10 @@
+outfit "Alpha Pirate Crew"
+	"unplunderable" 1
+outfit "Mystery Cube"
+	"unplunderable" 1
+ship "Auxiliary" "Auxiliary (Alpha)"
+	"uncapturable"
+ship "Marauder Leviathan" "Leviathan (Cube)"
+	"uncapturable"
+ship "Shield Beetle" "Enhanced Shield Beetle (Pulse)"
+	"uncapturable"

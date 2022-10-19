@@ -186,3 +186,7 @@ outfit "GMS14 Tungsten Product"
 	"unplunderable" 1
 outfit "Liquid Natural Gas"
 	"unplunderable" 1
+outfit "Liquid Ethane"
+	"unplunderable" 1
+outfit "Liquid Hydrogen"
+	"unplunderable" 1

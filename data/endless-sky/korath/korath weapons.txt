@@ -1,44 +1,44 @@
-outfit "Korath Grab-Strike"
+outfit "Grab-Strike Turret"
 	"unplunderable" 1
 outfit "Shunt-Strike Turret"
 	"unplunderable" 1
-outfit "Korath Banisher"
+outfit "Banisher Grav-Turret"
 	"unplunderable" 1
 outfit "Expeller Grav-Ray"
 	"unplunderable" 1
-outfit "Korath Warder"
+outfit "Warder Anti-Missile"
 	"unplunderable" 1
-outfit "Korath Fire-Lance"
+outfit "Fire-Lance"
 	"unplunderable" 1
 outfit "Blaze-Pike Turret"
 	"unplunderable" 1
 outfit "Korath Inferno"
 	"unplunderable" 1
-outfit "Korath Repeater"
+outfit "Thermal Repeater"
 	"unplunderable" 1
-outfit "Korath Repeater Turret"
+outfit "Thermal Repeater Turret"
 	"unplunderable" 1
-outfit "Korath Piercer"
+outfit "Piercer Missile"
 	"unplunderable" 1
-outfit "Korath Piercer Rack"
+outfit "Piercer Missile Rack"
 	"unplunderable" 1
-outfit "Korath Piercer Launcher"
+outfit "Piercer Missile Launcher"
 	"unplunderable" 1
 outfit "Korath Detainer"
 	"unplunderable" 1
-outfit "Korath Mine"
+outfit "Cluster Mine"
 	"unplunderable" 1
-outfit "Korath Mine Rack"
+outfit "Cluster Mine Rack"
 	"unplunderable" 1
-outfit "Korath Minelayer"
+outfit "Cluster Mine Layer"
 	"unplunderable" 1
 outfit "Korath Mine Submunition"
 	"unplunderable" 1
-outfit "Korath Disruptor"
+outfit "Shield Disruptor Turret"
 	"unplunderable" 1
-outfit "Korath Slicer"
+outfit "Husk-Slice"
 	"unplunderable" 1
-outfit "Korath Slicer Turret"
+outfit "Husk-Slice Turret"
 	"unplunderable" 1
 outfit "Digger Mining Turret"
 	"unplunderable" 1
@@ -59,4 +59,10 @@ outfit "Firelight Missile Bank"
 outfit "Firelight Turning"
 	"unplunderable" 1
 outfit "Firelight Activated"
+	"unplunderable" 1
+outfit "Firestorm Torpedo"
+	"unplunderable" 1
+outfit "Firestorm Torpedo Rack"
+	"unplunderable" 1
+outfit "Firestorm Battery"
 	"unplunderable" 1

@@ -22,3 +22,5 @@ outfit "ion hail"
 	"unplunderable" 1
 outfit "Ion Rain Gun"
 	"unplunderable" 1
+outfit "MCS Extractor"
+	"unplunderable" 1

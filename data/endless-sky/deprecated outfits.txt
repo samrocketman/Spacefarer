@@ -18,8 +18,6 @@ outfit "Mass Expansion"
 	"unplunderable" 1
 outfit "Reverse Thruster"
 	"unplunderable" 1
-outfit "NDR-114 Android"
-	"unplunderable" 1
 outfit "Bullfrog Anti-Missile Turret"
 	"unplunderable" 1
 outfit "Chameleon Anti-Missile Turret"
@@ -29,4 +27,36 @@ outfit "Cruiser License"
 outfit "Carrier License"
 	"unplunderable" 1
 outfit "Afterburner"
+	"unplunderable" 1
+outfit "Korath Grab-Strike"
+	"unplunderable" 1
+outfit "Korath Banisher"
+	"unplunderable" 1
+outfit "Korath Warder"
+	"unplunderable" 1
+outfit "Korath Fire-Lance"
+	"unplunderable" 1
+outfit "Korath Repeater"
+	"unplunderable" 1
+outfit "Korath Repeater Turret"
+	"unplunderable" 1
+outfit "Korath Piercer"
+	"unplunderable" 1
+outfit "Korath Piercer Rack"
+	"unplunderable" 1
+outfit "Korath Piercer Launcher"
+	"unplunderable" 1
+outfit "Korath Mine"
+	"unplunderable" 1
+outfit "Korath Mine Rack"
+	"unplunderable" 1
+outfit "Korath Minelayer"
+	"unplunderable" 1
+outfit "Korath Disruptor"
+	"unplunderable" 1
+outfit "Korath Slicer"
+	"unplunderable" 1
+outfit "Korath Slicer Turret"
+	"unplunderable" 1
+outfit "Korath Repeater Rifle"
 	"unplunderable" 1

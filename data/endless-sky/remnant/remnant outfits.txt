@@ -14,6 +14,14 @@ outfit "EMP Torpedo Storage Bay"
 	"unplunderable" 1
 outfit "EMP Torpedo Bay"
 	"unplunderable" 1
+outfit "Teciimach Canister"
+	"unplunderable" 1
+outfit "Teciimach Canister Rack"
+	"unplunderable" 1
+outfit "Teciimach Bay"
+	"unplunderable" 1
+outfit "Teciimach Pod"
+	"unplunderable" 1
 outfit "Ember Tear"
 	"unplunderable" 1
 outfit "Crystal Capacitor"
@@ -27,6 +35,8 @@ outfit "Aeon Cell"
 outfit "Thermoelectric Cooler"
 	"unplunderable" 1
 outfit "Emergency Ramscoop"
+	"unplunderable" 1
+outfit "NDR-114 Android"
 	"unplunderable" 1
 outfit "Research Laboratory"
 	"unplunderable" 1
@@ -53,6 +63,8 @@ outfit "Smelter-Class Steering"
 outfit "Tuning Rifle"
 	"unplunderable" 1
 outfit "Void Rifle"
+	"unplunderable" 1
+outfit "Void Sprite Parts"
 	"unplunderable" 1
 outfit "Remnant License"
 	"unplunderable" 1

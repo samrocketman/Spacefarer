@@ -1,0 +1,4 @@
+outfit "Pincer"
+	"unplunderable" 1
+ship "Pincer Beast"
+	"uncapturable"

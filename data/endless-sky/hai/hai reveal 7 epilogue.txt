@@ -1,0 +1,4 @@
+ship "Boxwing" "Boxwing (Miner)"
+	"uncapturable"
+ship "Dagger" "Dagger (Miner)"
+	"uncapturable"

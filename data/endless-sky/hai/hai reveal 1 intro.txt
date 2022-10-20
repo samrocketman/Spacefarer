@@ -1,0 +1,4 @@
+ship "Geodesic Geocoris"
+	"uncapturable"
+ship "Geodesic Geocoris" "Geodesic Geocoris (Phylactery)"
+	"uncapturable"

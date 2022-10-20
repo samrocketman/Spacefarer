@@ -94,3 +94,5 @@ outfit "Dual Pulse Pistols"
 	"unplunderable" 1
 outfit "Shield Beetle Pendant"
 	"unplunderable" 1
+outfit "Failed Control System"
+	"unplunderable" 1

@@ -1,0 +1,22 @@
+outfit "Low Nova Level"
+	"unplunderable" 1
+outfit "Low Nova Health"
+	"unplunderable" 1
+outfit "Low Nova Support"
+	"unplunderable" 1
+outfit "Low Nova Combat"
+	"unplunderable" 1
+outfit "N10 Milestone"
+	"unplunderable" 1
+outfit "Level N3 Shield Capacitor"
+	"unplunderable" 1
+outfit "Level N3 Hull Plating"
+	"unplunderable" 1
+outfit "Level N6 Fuel Tank"
+	"unplunderable" 1
+outfit "Level N6 Fuel Refinery"
+	"unplunderable" 1
+outfit "Level N9 Cargo Expansion"
+	"unplunderable" 1
+outfit "Level N9 Passenger Expansion"
+	"unplunderable" 1

@@ -1,12 +1,24 @@
 outfit "Dragonsbreath Battery"
 	"unplunderable" 1
+outfit "Sanctuary Beam"
+	"unplunderable" 1
 outfit "Starcutter Turret"
 	"unplunderable" 1
 outfit "Interdiction Turret"
 	"unplunderable" 1
 outfit "Multi-Disruptor"
 	"unplunderable" 1
+outfit "Static Cling"
+	"unplunderable" 1
 outfit "Rampager Battery"
+	"unplunderable" 1
+outfit "Proton Undulator Cannon"
+	"unplunderable" 1
+outfit "Undulator Propagate"
+	"unplunderable" 1
+outfit "Undulator Trail"
+	"unplunderable" 1
+outfit "Proton Undulator Turret"
 	"unplunderable" 1
 outfit "Lightning Striker"
 	"unplunderable" 1

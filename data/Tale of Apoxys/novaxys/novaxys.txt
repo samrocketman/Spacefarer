@@ -1,0 +1,6 @@
+outfit "Novaxys Core"
+	"unplunderable" 1
+outfit "Barb (Cargo)"
+	"unplunderable" 1
+ship "Novaxys"
+	"uncapturable"

@@ -4,6 +4,8 @@ outfit "Mystery Cube"
 	"unplunderable" 1
 ship "Auxiliary" "Auxiliary (Alpha)"
 	"uncapturable"
+ship "Far Osk 27" "Far Osk 27 (Hacked)"
+	"uncapturable"
 ship "Marauder Leviathan" "Leviathan (Cube)"
 	"uncapturable"
 ship "Shield Beetle" "Enhanced Shield Beetle (Pulse)"

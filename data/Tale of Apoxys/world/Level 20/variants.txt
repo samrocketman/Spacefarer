@@ -1,0 +1,8 @@
+ship "Leviathan" "Level 20 Leviathan"
+	"uncapturable"
+ship "Behemoth" "Level 20 Behemoth"
+	"uncapturable"
+ship "Protector" "Level 20 Protector"
+	"uncapturable"
+ship "Vanguard" "Level 20 Vanguard"
+	"uncapturable"

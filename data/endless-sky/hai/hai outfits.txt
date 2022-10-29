@@ -4,6 +4,14 @@ outfit "Pulse Turret"
 	"unplunderable" 1
 outfit "Ion Cannon"
 	"unplunderable" 1
+outfit "True Unfettered License"
+	"unplunderable" 1
+outfit "Ionic Blade"
+	"unplunderable" 1
+outfit "Ionic Blaster Prototype"
+	"unplunderable" 1
+outfit "Ionic Turret Prototype"
+	"unplunderable" 1
 outfit "Railgun Slug"
 	"unplunderable" 1
 outfit "Railgun Slug Rack"

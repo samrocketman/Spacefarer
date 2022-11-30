@@ -1,7 +1,3 @@
-ship "Sea Scorpion" "Sea Scorpion (Ionic)"
-	"uncapturable"
-ship "Sea Scorpion" "Sea Scorpion (Shredder)"
-	"uncapturable"
 ship "Sea Scorpion" "Sea Scorpion (Shields)"
 	"uncapturable"
 ship "Stag Beetle" "Stag Beetle (Flamer)"

@@ -6,3 +6,5 @@ outfit "Model Cannon"
 	"unplunderable" 1
 outfit "Model Turret"
 	"unplunderable" 1
+outfit "Riot Containment Barrier"
+	"unplunderable" 1

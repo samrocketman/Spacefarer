@@ -2,6 +2,8 @@ outfit "Pulse Cannon"
 	"unplunderable" 1
 outfit "Pulse Turret"
 	"unplunderable" 1
+outfit "Tripulse Shredder"
+	"unplunderable" 1
 outfit "Ion Cannon"
 	"unplunderable" 1
 outfit "True Unfettered License"
@@ -39,6 +41,8 @@ outfit "Hai Williwaw Cooling"
 outfit "Hai Zephyr Cooling"
 	"unplunderable" 1
 outfit "Quantum Keystone"
+	"unplunderable" 1
+outfit "Value Detector"
 	"unplunderable" 1
 outfit "Hai Chasm Batteries"
 	"unplunderable" 1

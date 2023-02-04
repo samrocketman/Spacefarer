@@ -188,6 +188,18 @@ outfit "GMS02 Titanium Product"
 	"unplunderable" 1
 outfit "GMS14 Tungsten Product"
 	"unplunderable" 1
+outfit "GMS49 Gold Product"
+	"unplunderable" 1
+outfit "GMS52 Lead Product"
+	"unplunderable" 1
+outfit "GMS60 Neodymium Product"
+	"unplunderable" 1
+outfit "GMS78 Platinum Product"
+	"unplunderable" 1
+outfit "GMS84 Silicon Product"
+	"unplunderable" 1
+outfit "GMS97 Silver Product"
+	"unplunderable" 1
 outfit "Liquid Natural Gas"
 	"unplunderable" 1
 outfit "Liquid Ethane"

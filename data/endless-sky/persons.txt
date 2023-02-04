@@ -10,6 +10,8 @@ outfit "Hexagonal Crystal"
 	"unplunderable" 1
 outfit "Tree Skeleton Key Stone"
 	"unplunderable" 1
+outfit "Prototype Fusion Cannon"
+	"unplunderable" 1
 ship "Finch" "Finch (MZ)"
 	"uncapturable"
 ship "Marauder Fury"
@@ -25,4 +27,8 @@ ship "Shooting Star"
 ship "Marauder Bactrian"
 	"uncapturable"
 ship "Modified Boxwing"
+	"uncapturable"
+ship "Modified Battleship"
+	"uncapturable"
+ship "Modified Ladybug"
 	"uncapturable"

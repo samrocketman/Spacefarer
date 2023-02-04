@@ -1,0 +1,2 @@
+ship "Centipede" "Centipede (Teeneep)"
+	"uncapturable"

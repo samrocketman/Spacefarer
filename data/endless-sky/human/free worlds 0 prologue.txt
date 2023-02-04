@@ -1,0 +1,2 @@
+ship "Mammoth" "Mammoth (Moonless)"
+	"uncapturable"

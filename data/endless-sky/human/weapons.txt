@@ -1,10 +1,18 @@
 outfit "Energy Blaster"
 	"unplunderable" 1
+outfit "Twin Blaster"
+	"unplunderable" 1
+outfit "Blaster Submunition"
+	"unplunderable" 1
 outfit "Blaster Turret"
 	"unplunderable" 1
 outfit "Quad Blaster Turret"
 	"unplunderable" 1
 outfit "Modified Blaster"
+	"unplunderable" 1
+outfit "Twin Modified Blaster"
+	"unplunderable" 1
+outfit "Modified Blaster Submunition"
 	"unplunderable" 1
 outfit "Modified Blaster Turret"
 	"unplunderable" 1

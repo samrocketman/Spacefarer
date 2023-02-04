@@ -1,0 +1,4 @@
+ship "Shield Beetle" "Shield Beetle (Sunbeam Korath Jump)"
+	"uncapturable"
+ship "Centipede" "Centipede (Teeneep Jump)"
+	"uncapturable"

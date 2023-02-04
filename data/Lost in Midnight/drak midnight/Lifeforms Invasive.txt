@@ -1,5 +1,7 @@
 outfit "Flare Belcher?"
 	"unplunderable" 1
+outfit "Flare Belcher Projectile"
+	"unplunderable" 1
 outfit "Quill Launcher?"
 	"unplunderable" 1
 ship "Nova Firefly"

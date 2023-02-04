@@ -2,11 +2,11 @@ outfit "Hackerz Plugin Omega"
 	"unplunderable" 1
 outfit "Hackerz Plugin Alpha"
 	"unplunderable" 1
+outfit "Hackerz Plugin Sigma"
+	"unplunderable" 1
 ship "Astero Nautilus" "Elder Astero Nautilus"
 	"uncapturable"
 ship "Modified Blackbird"
-	"uncapturable"
-ship "Thunder Maker" "God of Thunder"
 	"uncapturable"
 ship "Ghost PK"
 	"uncapturable"

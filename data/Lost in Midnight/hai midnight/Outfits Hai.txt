@@ -16,3 +16,5 @@ outfit "Quantum Tiger Blade"
 	"unplunderable" 1
 outfit "Quantum Turtle Blade"
 	"unplunderable" 1
+outfit "Quantum Bloodstone"
+	"unplunderable" 1

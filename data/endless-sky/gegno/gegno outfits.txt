@@ -1,0 +1,78 @@
+outfit "R01 Skirmish Battery"
+	"unplunderable" 1
+outfit "R02 Battlezone Battery"
+	"unplunderable" 1
+outfit "R03 Warforge Battery"
+	"unplunderable" 1
+outfit "R04 Crusade Battery"
+	"unplunderable" 1
+outfit "C3 Scrap Cell"
+	"unplunderable" 1
+outfit "C7 Brawl Cell"
+	"unplunderable" 1
+outfit "C17 Warzone Core"
+	"unplunderable" 1
+outfit "C27 Campaign Core"
+	"unplunderable" 1
+outfit "I70 Ameliorate Cell"
+	"unplunderable" 1
+outfit "RG15 Torch Thruster"
+	"unplunderable" 1
+outfit "RG15 Torch Steering"
+	"unplunderable" 1
+outfit "RG18 Torch Thruster"
+	"unplunderable" 1
+outfit "RG18 Torch Steering"
+	"unplunderable" 1
+outfit "RG3 Torch Thruster"
+	"unplunderable" 1
+outfit "RG3 Torch Steering"
+	"unplunderable" 1
+outfit "SC-1 Plasma Engines"
+	"unplunderable" 1
+outfit "SC-12 Plasma Thruster"
+	"unplunderable" 1
+outfit "SC-12 Plasma Steering"
+	"unplunderable" 1
+outfit "SC-14 Plasma Thruster"
+	"unplunderable" 1
+outfit "SC-14 Plasma Steering"
+	"unplunderable" 1
+outfit "SC-15 Plasma Thrusters"
+	"unplunderable" 1
+outfit "Irate Cannon"
+	"unplunderable" 1
+outfit "Irate Cannon Turret"
+	"unplunderable" 1
+outfit "Choleric Cannon"
+	"unplunderable" 1
+outfit "Choleric Cannon Turret"
+	"unplunderable" 1
+outfit "Ballistic Cannon"
+	"unplunderable" 1
+outfit "Ballistic Cannon Turret"
+	"unplunderable" 1
+outfit "Astuit Battery"
+	"unplunderable" 1
+outfit "Acuit Artillery"
+	"unplunderable" 1
+outfit "Guile Pulse Laser"
+	"unplunderable" 1
+outfit "Excavator"
+	"unplunderable" 1
+outfit "Savagery Bludgeon"
+	"unplunderable" 1
+outfit "Gegno Civilian License"
+	"unplunderable" 1
+outfit "Vi Lord License"
+	"unplunderable" 1
+outfit "Vi Centurion License"
+	"unplunderable" 1
+outfit "Vi Evocati License"
+	"unplunderable" 1
+outfit "Scin Hoplologist License"
+	"unplunderable" 1
+outfit "Scin Architect License"
+	"unplunderable" 1
+outfit "Scin Adjutant License"
+	"unplunderable" 1

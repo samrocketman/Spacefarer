@@ -1,0 +1,6 @@
+ship "Marauder Behemoth" "Marauder Behemoth (Scavenger)"
+	"uncapturable"
+ship "Marauder Behemoth" "Marauder Behemoth (Scavenger Pug)"
+	"uncapturable"
+ship "Marauder Behemoth" "Marauder Behemoth (Scavenger Quarg)"
+	"uncapturable"

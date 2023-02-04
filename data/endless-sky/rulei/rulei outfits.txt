@@ -1,0 +1,10 @@
+outfit "Fate Sealer"
+	"unplunderable" 1
+outfit "Fate Sealer Activated"
+	"unplunderable" 1
+outfit "Fate Divider"
+	"unplunderable" 1
+outfit "Fate Divider Activated"
+	"unplunderable" 1
+outfit "Abyssal Composer"
+	"unplunderable" 1

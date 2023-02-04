@@ -1,3 +1,5 @@
+outfit "Absorption Organ"
+	"unplunderable" 1
 outfit Mouthparts?
 	"unplunderable" 1
 ship "Subsidurial"
@@ -9,4 +11,8 @@ ship "Void Sprite" "Void Sprite (Infant)"
 ship "Ember Waste Node"
 	"uncapturable"
 ship "Embershade"
+	"uncapturable"
+ship "Embersylph"
+	"uncapturable"
+ship "Embersylph" "Embersylph (Small)"
 	"uncapturable"

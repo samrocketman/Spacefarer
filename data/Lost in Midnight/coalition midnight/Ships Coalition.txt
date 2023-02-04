@@ -1,4 +1,6 @@
 ship "Kimek Bramble"
 	"uncapturable"
+ship "Kimek Bramble" "Kimek Bramble (Deflector Barrier)"
+	"uncapturable"
 ship "Saryd Trailblazer"
 	"uncapturable"

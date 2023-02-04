@@ -2,6 +2,8 @@ outfit "Camouflaged Blaster"
 	"unplunderable" 1
 outfit "Camouflaged Blaster Turret"
 	"unplunderable" 1
+outfit "Deflector Emitter"
+	"unplunderable" 1
 outfit "Model Cannon"
 	"unplunderable" 1
 outfit "Model Turret"

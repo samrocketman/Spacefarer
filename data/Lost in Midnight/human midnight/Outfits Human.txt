@@ -1,18 +1,34 @@
 outfit "Cloaking Device (Damaged)"
 	"unplunderable" 1
+outfit "Contraband"
+	"unplunderable" 1
 outfit "Engineering Room"
 	"unplunderable" 1
 outfit "H6 Refrigeration Module"
 	"unplunderable" 1
 outfit "Infiltrator Tech"
 	"unplunderable" 1
+outfit "Limit Breaker"
+	"unplunderable" 1
 outfit "Liquid Metal Hull"
 	"unplunderable" 1
-outfit "Medical Bay"
+outfit "Modified D14-RN Shielding"
+	"unplunderable" 1
+outfit "Modified D23-QP Shielding"
+	"unplunderable" 1
+outfit "Modified D41-HY Shielding"
+	"unplunderable" 1
+outfit "Modified D67-TM Shielding"
+	"unplunderable" 1
+outfit "Modified D94-YV Shielding"
 	"unplunderable" 1
 outfit "North Wind Cooling"
 	"unplunderable" 1
-outfit "Reasoning Node (Damaged)"
+outfit "Rusty Asteroid Scanner"
+	"unplunderable" 1
+outfit "Shield Suppressor"
+	"unplunderable" 1
+outfit "Smuggler's Hideaway"
 	"unplunderable" 1
 outfit "Gnome Core"
 	"unplunderable" 1
@@ -27,6 +43,12 @@ outfit "Sunracer Afterburner"
 outfit "Antique Rifle"
 	"unplunderable" 1
 outfit "Execution Chamber"
+	"unplunderable" 1
+outfit "Medical Bay"
+	"unplunderable" 1
+outfit "Purger Rifle"
+	"unplunderable" 1
+outfit "Security Station"
 	"unplunderable" 1
 outfit "Sniper Rifle"
 	"unplunderable" 1
@@ -44,6 +66,22 @@ outfit "Carabao AI"
 	"unplunderable" 1
 outfit "Catapult Schematics"
 	"unplunderable" 1
+outfit "Guncraft I"
+	"unplunderable" 1
+outfit "Guncraft II"
+	"unplunderable" 1
+outfit "Guncraft III"
+	"unplunderable" 1
+outfit "Guncraft IV"
+	"unplunderable" 1
+outfit "Guncraft V"
+	"unplunderable" 1
+outfit "Guncraft VI"
+	"unplunderable" 1
+outfit "Guncraft VII"
+	"unplunderable" 1
+outfit "Guncraft VIII"
+	"unplunderable" 1
 outfit "Leviathan Comic"
 	"unplunderable" 1
 outfit "Leviathan Comic #1"
@@ -51,6 +89,8 @@ outfit "Leviathan Comic #1"
 outfit "Melchior Post Card"
 	"unplunderable" 1
 outfit "Microwave Cannon"
+	"unplunderable" 1
+outfit "Skeleton Key"
 	"unplunderable" 1
 outfit "T.H.O.R."
 	"unplunderable" 1

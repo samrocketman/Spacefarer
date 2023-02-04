@@ -1,0 +1,2 @@
+outfit "Reasoning Node (Damaged)"
+	"unplunderable" 1

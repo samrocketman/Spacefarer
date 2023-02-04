@@ -6,10 +6,6 @@ outfit "Tripulse Shredder"
 	"unplunderable" 1
 outfit "Ion Cannon"
 	"unplunderable" 1
-outfit "True Unfettered License"
-	"unplunderable" 1
-outfit "Ionic Blade"
-	"unplunderable" 1
 outfit "Ionic Blaster Prototype"
 	"unplunderable" 1
 outfit "Ionic Turret Prototype"
@@ -31,6 +27,10 @@ outfit "Hai Tracker Pod"
 outfit "Bullfrog Anti-Missile"
 	"unplunderable" 1
 outfit "Chameleon Anti-Missile"
+	"unplunderable" 1
+outfit "Hai Cuttlefish Jammer"
+	"unplunderable" 1
+outfit "Hai Octopus Jammer"
 	"unplunderable" 1
 outfit "Hai Corundum Regenerator"
 	"unplunderable" 1
@@ -91,6 +91,10 @@ outfit `"Bondir" Atomic Steering`
 outfit `"Bufaer" Atomic Steering`
 	"unplunderable" 1
 outfit "Pulse Rifle"
+	"unplunderable" 1
+outfit "True Unfettered License"
+	"unplunderable" 1
+outfit "Ionic Blade"
 	"unplunderable" 1
 outfit "Shield Beetle Pendant"
 	"unplunderable" 1

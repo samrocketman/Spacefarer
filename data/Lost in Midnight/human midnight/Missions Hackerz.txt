@@ -1,3 +1,5 @@
+ship "Derelict Bactrian"
+	"uncapturable"
 ship "Explosive Derelict Bactrian"
 	"uncapturable"
 ship "Headhunter" "Headhunter (Berserk)"

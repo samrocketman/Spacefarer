@@ -1,0 +1,12 @@
+outfit "Loot"
+	"unplunderable" 1
+outfit "Mystery Cube"
+	"unplunderable" 1
+ship "Mammoth" "Mammoth (Hai)"
+	"uncapturable"
+ship "Modified Shield Beetle" "Si-Ra' angry Beetle"
+	"uncapturable"
+ship "Stag Beetle"
+	"uncapturable"
+ship "Marauder Leviathan" "Leviathan (Cube)"
+	"uncapturable"

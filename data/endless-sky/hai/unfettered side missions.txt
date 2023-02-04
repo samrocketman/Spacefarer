@@ -1,11 +1,3 @@
-outfit "Loot"
-	"unplunderable" 1
-ship "Auxiliary" "Auxiliary (Alpha with supplies)"
-	"uncapturable"
-ship "Behemoth" "Behemoth (Mammoth)"
-	"uncapturable"
-ship "Marauder Firebird" "Marauder Firebird (Bars)"
-	"uncapturable"
 ship "Modified Shield Beetle" "Modified Shield Beetle (Blaster)"
 	"uncapturable"
 ship "Modified Shield Beetle" "Modified Shield Beetle (Heat Shunt)"

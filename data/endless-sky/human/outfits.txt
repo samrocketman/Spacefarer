@@ -70,6 +70,10 @@ outfit "Security Station"
 	"unplunderable" 1
 outfit "Nerve Gas"
 	"unplunderable" 1
+outfit `"Puny"`
+	"unplunderable" 1
+outfit "Tear of Skade"
+	"unplunderable" 1
 outfit "Local Map"
 	"unplunderable" 1
 outfit "Pilot's License"
@@ -85,6 +89,4 @@ outfit "Navy Carrier License"
 outfit "Militia License"
 	"unplunderable" 1
 outfit "City-Ship License"
-	"unplunderable" 1
-outfit "Tear of Skade"
 	"unplunderable" 1

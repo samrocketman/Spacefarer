@@ -8,6 +8,8 @@ outfit "Asteroid Deterioration"
 	"unplunderable" 1
 outfit "Energy Cannon"
 	"unplunderable" 1
+outfit "Energy Cannon Turret"
+	"unplunderable" 1
 outfit "Energy Blast"
 	"unplunderable" 1
 outfit "Residual Energy Blast"
@@ -18,9 +20,23 @@ outfit "Inferno Rocket Rack"
 	"unplunderable" 1
 outfit "Inferno Rocket Launcher"
 	"unplunderable" 1
+outfit "Inferno Rocket Pod"
+	"unplunderable" 1
 outfit "Plasma Cluster Cannon"
 	"unplunderable" 1
 outfit "Proton Gun-CF8"
 	"unplunderable" 1
+outfit "Proton Turret-ATS"
+	"unplunderable" 1
 outfit "Silencer Beam"
+	"unplunderable" 1
+outfit "Thermo Detonator"
+	"unplunderable" 1
+outfit "Turbo Blaster"
+	"unplunderable" 1
+outfit "Turbo Blaster Turret"
+	"unplunderable" 1
+outfit "Quad Turbo Blaster Turret"
+	"unplunderable" 1
+outfit "Quad Mod Blaster Turret"
 	"unplunderable" 1

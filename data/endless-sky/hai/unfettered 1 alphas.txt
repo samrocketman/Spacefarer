@@ -1,0 +1,6 @@
+outfit "Building Materials"
+	"unplunderable" 1
+ship "Auxiliary (Alpha)"
+	"uncapturable"
+ship "Bactrian" "Bactrian (Cerberus)"
+	"uncapturable"

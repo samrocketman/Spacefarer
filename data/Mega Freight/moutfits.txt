@@ -36,6 +36,8 @@ outfit "M6-ACS Artillery"
 	"unplunderable" 1
 outfit "M6-ACS Artillery Turret"
 	"unplunderable" 1
+outfit "Mi3 Ion Cannon Turret"
+	"unplunderable" 1
 outfit "V47 Plasma-Railgun"
 	"unplunderable" 1
 outfit "V47 Plasma-Railgun Turret"
@@ -91,6 +93,8 @@ outfit "AH-5 Eteron Torpedo"
 outfit "AH-5 Eteron Launch System"
 	"unplunderable" 1
 outfit "QB-10 Box Missile"
+	"unplunderable" 1
+outfit "MYi2 Railgun Turret"
 	"unplunderable" 1
 outfit "MX30 Sirius Core"
 	"unplunderable" 1

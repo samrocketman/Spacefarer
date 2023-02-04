@@ -1,4 +1,6 @@
-ship "Sea Scorpion" "Sea Scorpion (Shields)"
+ship "Sea Scorpion" "Sea Scorpion (Shields, Trackers)"
 	"uncapturable"
 ship "Stag Beetle" "Stag Beetle (Flamer)"
+	"uncapturable"
+ship "Sea Scorpion" "Sea Scorpion (Disruptor Slicer)"
 	"uncapturable"

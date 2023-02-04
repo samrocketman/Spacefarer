@@ -1,0 +1,18 @@
+outfit "Pug Ion Zapper"
+	"unplunderable" 1
+outfit "Pug Ion Zapper Turret"
+	"unplunderable" 1
+outfit "Pug Dual Seeker"
+	"unplunderable" 1
+outfit "Pug Thunder Seeker"
+	"unplunderable" 1
+outfit "Tier 2 Anti-Missile"
+	"unplunderable" 1
+outfit "Pug Supplemental Shielding"
+	"unplunderable" 1
+outfit "Pug Akcorlo Engines"
+	"unplunderable" 1
+outfit "Pug Afterburner"
+	"unplunderable" 1
+outfit "Dream Crystal"
+	"unplunderable" 1

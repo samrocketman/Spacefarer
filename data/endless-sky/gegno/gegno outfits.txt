@@ -62,6 +62,14 @@ outfit "Excavator"
 	"unplunderable" 1
 outfit "Savagery Bludgeon"
 	"unplunderable" 1
+outfit "Savagery Pike"
+	"unplunderable" 1
+outfit "Irate Carronade"
+	"unplunderable" 1
+outfit "Plasmasickle"
+	"unplunderable" 1
+outfit "Plasma Grenades"
+	"unplunderable" 1
 outfit "Gegno Civilian License"
 	"unplunderable" 1
 outfit "Vi Lord License"

@@ -62,6 +62,8 @@ outfit "Fuel Pod"
 	"unplunderable" 1
 outfit "Interference Plating"
 	"unplunderable" 1
+outfit "Smuggler's Closet"
+	"unplunderable" 1
 outfit "Laser Rifle"
 	"unplunderable" 1
 outfit "Fragmentation Grenades"

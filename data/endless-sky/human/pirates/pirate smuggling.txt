@@ -1,0 +1,16 @@
+outfit "Chemical Warhead"
+	"unplunderable" 1
+outfit "Coreshine"
+	"unplunderable" 1
+outfit "Dragon's Teeth"
+	"unplunderable" 1
+outfit "Designer Drugs"
+	"unplunderable" 1
+outfit "Stolen Ship Parts"
+	"unplunderable" 1
+outfit "Liberator Missile System"
+	"unplunderable" 1
+outfit "Counterfeit Credsticks"
+	"unplunderable" 1
+outfit "Jailbroken AI Core"
+	"unplunderable" 1

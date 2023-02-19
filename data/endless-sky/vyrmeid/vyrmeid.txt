@@ -1,0 +1,14 @@
+outfit "Plankton Mouth"
+	"unplunderable" 1
+outfit "Boomerang Organ"
+	"unplunderable" 1
+outfit "Astral Mouth"
+	"unplunderable" 1
+ship "Vyrmeid"
+	"uncapturable"
+ship "Vyrmeid" "Vyrmeid (B)"
+	"uncapturable"
+ship "Vyrmeid" "Vyrmeid (C)"
+	"uncapturable"
+ship "Astral Cetacean"
+	"uncapturable"

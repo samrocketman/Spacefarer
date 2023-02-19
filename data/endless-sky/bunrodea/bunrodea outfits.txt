@@ -1,0 +1,48 @@
+outfit "Shield Relay Booster"
+	"unplunderable" 1
+outfit "Shield Relay Limiter"
+	"unplunderable" 1
+outfit "Small Shield Relay"
+	"unplunderable" 1
+outfit "Large Shield Relay"
+	"unplunderable" 1
+outfit "Nanite Enhancer"
+	"unplunderable" 1
+outfit "Nanite Limiter"
+	"unplunderable" 1
+outfit "Small Nanite Fabricator"
+	"unplunderable" 1
+outfit "Large Nanite Fabricator"
+	"unplunderable" 1
+outfit "Solar Battery"
+	"unplunderable" 1
+outfit "Solar Cell"
+	"unplunderable" 1
+outfit "Reactor Overclocker"
+	"unplunderable" 1
+outfit "Reactor Limiter"
+	"unplunderable" 1
+outfit "Quark Reactor"
+	"unplunderable" 1
+outfit "Electroweak Reactor"
+	"unplunderable" 1
+outfit "Dark Reactor"
+	"unplunderable" 1
+outfit "Lasher Pistol"
+	"unplunderable" 1
+outfit "Chiisana Rift Thruster"
+	"unplunderable" 1
+outfit "Nami Rift Thruster"
+	"unplunderable" 1
+outfit "Ookii Rift Thruster"
+	"unplunderable" 1
+outfit "Subarashii Rift Thruster"
+	"unplunderable" 1
+outfit "Chiisana Rift Steering"
+	"unplunderable" 1
+outfit "Nami Rift Steering"
+	"unplunderable" 1
+outfit "Ookii Rift Steering"
+	"unplunderable" 1
+outfit "Subarashii Rift Steering"
+	"unplunderable" 1

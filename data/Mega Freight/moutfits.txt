@@ -64,6 +64,10 @@ outfit "CMX-12 Anti-Missile"
 	"unplunderable" 1
 outfit "CMX-63 Kavacha Anti-Missile"
 	"unplunderable" 1
+outfit "Gy6 Hellraiser Turret"
+	"unplunderable" 1
+outfit "Diatonic Apocalypse"
+	"unplunderable" 1
 outfit "KC-421 Parapet Anti-Missile"
 	"unplunderable" 1
 outfit "4C-1 Detonator"
@@ -103,6 +107,12 @@ outfit "DX-30k Shield Hub"
 outfit "SX-12 Shield Node"
 	"unplunderable" 1
 outfit "NX-40k Repair Center"
+	"unplunderable" 1
+outfit "VYT Malebolge Core"
+	"unplunderable" 1
+outfit "VIK3 Devil Shielding"
+	"unplunderable" 1
+outfit "VNZ5 Inferno Repair"
 	"unplunderable" 1
 outfit "M-type 1k Gas Tank"
 	"unplunderable" 1

@@ -72,7 +72,7 @@ outfit "Security Station"
 	"unplunderable" 1
 outfit "Nerve Gas"
 	"unplunderable" 1
-outfit `"Puny"`
+outfit "Puny"
 	"unplunderable" 1
 outfit "Tear of Skade"
 	"unplunderable" 1

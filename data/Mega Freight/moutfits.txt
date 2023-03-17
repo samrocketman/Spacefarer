@@ -116,6 +116,8 @@ outfit "VNZ5 Inferno Repair"
 	"unplunderable" 1
 outfit "M-type 1k Gas Tank"
 	"unplunderable" 1
+outfit "U-type 1k Chemical Tank"
+	"unplunderable" 1
 outfit "X09E Fighter Assembler"
 	"unplunderable" 1
 outfit "E1 Lance Blueprint"
@@ -166,6 +168,26 @@ outfit "Casino Operator License"
 	"unplunderable" 1
 outfit "Syndicate Platinum License"
 	"unplunderable" 1
+outfit "Liquid Natural Gas"
+	"unplunderable" 1
+outfit "Liquid Ethane"
+	"unplunderable" 1
+outfit "Liquid Hydrogen"
+	"unplunderable" 1
+outfit "Sulfuric Acid"
+	"unplunderable" 1
+outfit "Phosphoric Acid"
+	"unplunderable" 1
+outfit "Methanol"
+	"unplunderable" 1
+outfit "Ammonia"
+	"unplunderable" 1
+outfit "Hydrazine"
+	"unplunderable" 1
+outfit "Diborane"
+	"unplunderable" 1
+outfit "Chlorine"
+	"unplunderable" 1
 outfit "GMS16 Steel"
 	"unplunderable" 1
 outfit "GMS23 Aluminum"
@@ -209,10 +231,4 @@ outfit "GMS78 Platinum Product"
 outfit "GMS84 Silicon Product"
 	"unplunderable" 1
 outfit "GMS97 Silver Product"
-	"unplunderable" 1
-outfit "Liquid Natural Gas"
-	"unplunderable" 1
-outfit "Liquid Ethane"
-	"unplunderable" 1
-outfit "Liquid Hydrogen"
 	"unplunderable" 1

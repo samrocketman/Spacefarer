@@ -24,6 +24,12 @@ outfit "Heavy Laser"
 	"unplunderable" 1
 outfit "Heavy Laser Turret"
 	"unplunderable" 1
+outfit "Mining Laser"
+	"unplunderable" 1
+outfit "Mining Laser Turret"
+	"unplunderable" 1
+outfit "Tractor Beam"
+	"unplunderable" 1
 outfit "Electron Turret"
 	"unplunderable" 1
 outfit "Anti-Missile Turret"
@@ -72,6 +78,8 @@ outfit "Javelin Pod"
 	"unplunderable" 1
 outfit "Javelin Mini Pod"
 	"unplunderable" 1
+outfit "Javelin Turret"
+	"unplunderable" 1
 outfit "Torpedo"
 	"unplunderable" 1
 outfit "Torpedo Storage Rack"
@@ -103,6 +111,8 @@ outfit "Gatling Gun Ammo"
 outfit "Bullet Boxes"
 	"unplunderable" 1
 outfit "Gatling Gun"
+	"unplunderable" 1
+outfit "Gatling Turret"
 	"unplunderable" 1
 outfit "gbullet"
 	"unplunderable" 1

@@ -70,7 +70,11 @@ outfit "Security Station"
 	"unplunderable" 1
 outfit "Nerve Gas"
 	"unplunderable" 1
-outfit `"Puny"`
+outfit "Mug"
+	"unplunderable" 1
+outfit "Antigrav Glass"
+	"unplunderable" 1
+outfit "Puny"
 	"unplunderable" 1
 outfit "Tear of Skade"
 	"unplunderable" 1

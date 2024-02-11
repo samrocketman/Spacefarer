@@ -30,6 +30,14 @@ outfit "Cooling Module"
 	"unplunderable" 1
 outfit "Fuel Module"
 	"unplunderable" 1
+outfit "Decoy Plating"
+	"unplunderable" 1
+outfit "Refueling Module"
+	"unplunderable" 1
+outfit "Shield Refactor Module"
+	"unplunderable" 1
+outfit "Small Recovery Module"
+	"unplunderable" 1
 outfit "Scanning Module"
 	"unplunderable" 1
 outfit "Outskirts Gauger"
@@ -50,5 +58,9 @@ outfit "Enforcer Confrontation Gear"
 	"unplunderable" 1
 outfit "Enforcer Riot Staff"
 	"unplunderable" 1
+outfit "Anti-Materiel Gun"
+	"unplunderable" 1
 outfit "Coalition License"
+	"unplunderable" 1
+outfit "Heliarch License"
 	"unplunderable" 1

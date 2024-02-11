@@ -56,13 +56,29 @@ outfit "Astuit Battery"
 	"unplunderable" 1
 outfit "Acuit Artillery"
 	"unplunderable" 1
+outfit "Acumen Bolt Cannon"
+	"unplunderable" 1
 outfit "Guile Pulse Laser"
 	"unplunderable" 1
 outfit "Excavator"
 	"unplunderable" 1
+outfit "Burrower"
+	"unplunderable" 1
+outfit "Ion Torch"
+	"unplunderable" 1
 outfit "Savagery Bludgeon"
 	"unplunderable" 1
+outfit "Savagery Pike"
+	"unplunderable" 1
+outfit "Irate Carronade"
+	"unplunderable" 1
+outfit "Plasmasickle"
+	"unplunderable" 1
+outfit "Plasma Grenades"
+	"unplunderable" 1
 outfit "Gegno Civilian License"
+	"unplunderable" 1
+outfit "Gegno Driller License"
 	"unplunderable" 1
 outfit "Vi Lord License"
 	"unplunderable" 1

@@ -1,0 +1,16 @@
+outfit "Locust Blaster"
+	"unplunderable" 1
+outfit "Locust Turret"
+	"unplunderable" 1
+outfit "Mandible Cannon"
+	"unplunderable" 1
+outfit "Thorax Cannon"
+	"unplunderable" 1
+outfit "Swarm Clip"
+	"unplunderable" 1
+outfit "Swarm Missile"
+	"unplunderable" 1
+outfit "Swarm Pod"
+	"unplunderable" 1
+outfit "Buzzer Anti-Missile"
+	"unplunderable" 1

@@ -1,0 +1,2 @@
+ship "Charm-Shallop" "Charm-Shallop (Distressed)"
+	"uncapturable"

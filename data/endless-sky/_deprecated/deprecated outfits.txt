@@ -60,3 +60,21 @@ outfit "Korath Slicer Turret"
 	"unplunderable" 1
 outfit "Korath Repeater Rifle"
 	"unplunderable" 1
+outfit "Nanotech Battery"
+	"unplunderable" 1
+outfit "Quantum Shield Generator"
+	"unplunderable" 1
+outfit "Intrusion Countermeasures"
+	"unplunderable" 1
+outfit "Quarg Skylance"
+	"unplunderable" 1
+outfit "Quarg Anti-Missile"
+	"unplunderable" 1
+outfit "Multimodal Armor: Resilient"
+	"unplunderable" 1
+outfit "Nettle Magazine"
+	"unplunderable" 1
+outfit "Orchid Magazine"
+	"unplunderable" 1
+outfit `Z-3600 "Beam" Amat Torch`
+	"unplunderable" 1

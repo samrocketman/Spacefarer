@@ -1,0 +1,14 @@
+outfit "Pinecone Launcher"
+	"unplunderable" 1
+outfit "Pollen"
+	"unplunderable" 1
+outfit "Jamfruit"
+	"unplunderable" 1
+ship "Windjammer"
+	"uncapturable"
+ship "Bluejacket"
+	"uncapturable"
+ship "Pollen"
+	"uncapturable"
+ship "Sprout"
+	"uncapturable"

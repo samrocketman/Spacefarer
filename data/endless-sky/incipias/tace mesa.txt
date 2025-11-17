@@ -1,0 +1,6 @@
+outfit "Strange Ray"
+	"unplunderable" 1
+outfit "Internal Plasma Exhaust"
+	"unplunderable" 1
+ship "Tace Mesa"
+	"uncapturable"

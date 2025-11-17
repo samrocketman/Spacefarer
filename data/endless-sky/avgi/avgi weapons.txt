@@ -1,0 +1,64 @@
+outfit "Speck Round"
+	"unplunderable" 1
+outfit "Speck Magazine"
+	"unplunderable" 1
+outfit "Speckle Coilgun"
+	"unplunderable" 1
+outfit "Speckle Turret"
+	"unplunderable" 1
+outfit "Speck"
+	"unplunderable" 1
+outfit "Optical Lasing Generator"
+	"unplunderable" 1
+outfit "Green Optical Laser"
+	"unplunderable" 1
+outfit "Blue Optical Laser"
+	"unplunderable" 1
+outfit "Ultraviolet Excimer Laser"
+	"unplunderable" 1
+outfit "Ultrarelativistic Electron Beam"
+	"unplunderable" 1
+outfit "TeV Electron Bunch"
+	"unplunderable" 1
+outfit "UREB Turret"
+	"unplunderable" 1
+outfit "GeV Electron Bunch"
+	"unplunderable" 1
+outfit "External Launch Rail"
+	"unplunderable" 1
+outfit "External Launch Tube"
+	"unplunderable" 1
+outfit "Tiny VLS"
+	"unplunderable" 1
+outfit "Small VLS"
+	"unplunderable" 1
+outfit "Medium VLS"
+	"unplunderable" 1
+outfit `"Nettle" KKV`
+	"unplunderable" 1
+outfit "Nettle Active"
+	"unplunderable" 1
+outfit "Nettle Flecks"
+	"unplunderable" 1
+outfit `"Orchid" Nuclear Missile`
+	"unplunderable" 1
+outfit "Orchid Active"
+	"unplunderable" 1
+outfit "Orchid Boost"
+	"unplunderable" 1
+outfit "Orchid Coast"
+	"unplunderable" 1
+outfit "Orchid Divert"
+	"unplunderable" 1
+outfit "Orchid Terminal"
+	"unplunderable" 1
+outfit "Orchid Boost Stage Expended"
+	"unplunderable" 1
+outfit "Orchid Divert Stage Expended"
+	"unplunderable" 1
+outfit `"Ophrys" Nuclear Torpedo`
+	"unplunderable" 1
+outfit "Ophrys Stockpile"
+	"unplunderable" 1
+outfit "Ophrys Terminal"
+	"unplunderable" 1

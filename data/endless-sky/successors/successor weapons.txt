@@ -1,0 +1,24 @@
+outfit `"Ojet" Bimodal Coilgun`
+	"unplunderable" 1
+outfit "Bimodal Coilgun Turret"
+	"unplunderable" 1
+outfit "Bimodal Switch"
+	"unplunderable" 1
+outfit "Drag Cannon"
+	"unplunderable" 1
+outfit "Drag Projectile"
+	"unplunderable" 1
+outfit "Successor Pulse Laser"
+	"unplunderable" 1
+outfit "Pulse Laser Turret"
+	"unplunderable" 1
+outfit "Overcharged Pulse Laser"
+	"unplunderable" 1
+outfit "Overcharged Laser Turret"
+	"unplunderable" 1
+outfit `"Sjeja" Kinetic Lance`
+	"unplunderable" 1
+outfit "High-Velocity Spike"
+	"unplunderable" 1
+outfit "High-Velocity Spike Rack"
+	"unplunderable" 1

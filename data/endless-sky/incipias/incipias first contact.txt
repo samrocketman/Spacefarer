@@ -1,0 +1,2 @@
+ship "Nimbus" "Nimbus FTL"
+	"uncapturable"

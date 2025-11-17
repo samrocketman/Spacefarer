@@ -36,3 +36,5 @@ outfit "Vareti Engine Block"
 	"unplunderable" 1
 outfit "Ka'het Compact Engine"
 	"unplunderable" 1
+outfit "Ka'het Electric Stunner"
+	"unplunderable" 1

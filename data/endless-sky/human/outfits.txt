@@ -74,9 +74,13 @@ outfit "Mug"
 	"unplunderable" 1
 outfit "Antigrav Glass"
 	"unplunderable" 1
+outfit "Old Man's Sword"
+	"unplunderable" 1
 outfit "Puny"
 	"unplunderable" 1
 outfit "Tear of Skade"
+	"unplunderable" 1
+outfit "Blood of Surtr"
 	"unplunderable" 1
 outfit "Local Map"
 	"unplunderable" 1

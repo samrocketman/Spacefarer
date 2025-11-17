@@ -1,0 +1,70 @@
+outfit "Radiative Lamina"
+	"unplunderable" 1
+outfit "Concealment Lamina"
+	"unplunderable" 1
+outfit "Magnetic Scoop"
+	"unplunderable" 1
+outfit "Plasmadyne Scoop"
+	"unplunderable" 1
+outfit "Deuterium Slush Tank"
+	"unplunderable" 1
+outfit "Cryogenic Deuterium Tank"
+	"unplunderable" 1
+outfit "Heatsink Partition"
+	"unplunderable" 1
+outfit "Multispectral Scanner"
+	"unplunderable" 1
+outfit "Spectrometer Array"
+	"unplunderable" 1
+outfit "Diffuse Deflector"
+	"unplunderable" 1
+outfit "Specular Deflector"
+	"unplunderable" 1
+outfit "Concentrating Solar Cell"
+	"unplunderable" 1
+outfit "Concentrating Solar Array"
+	"unplunderable" 1
+outfit "Photoelectric Lamina"
+	"unplunderable" 1
+outfit "Lantern Fission Core"
+	"unplunderable" 1
+outfit "Ultracapacitor Cell"
+	"unplunderable" 1
+outfit "Ultracapacitor Bank"
+	"unplunderable" 1
+outfit "Magnetoplasma Drive"
+	"unplunderable" 1
+outfit "Vapor Nuclear Rocket"
+	"unplunderable" 1
+outfit `A-3600 "Beam" Amat Drive`
+	"unplunderable" 1
+outfit `Z-333 "Spark" Fusion Torch`
+	"unplunderable" 1
+outfit `Z-666 "Zap" Fusion Torch`
+	"unplunderable" 1
+outfit `Z-999 "Arc" Fusion Torch`
+	"unplunderable" 1
+outfit "Remass Injector"
+	"unplunderable" 1
+outfit "Inductive Extractor"
+	"unplunderable" 1
+outfit "R-180 RCS Thrusters"
+	"unplunderable" 1
+outfit "R-360 RCS Thrusters"
+	"unplunderable" 1
+outfit "R-720 RCS Thrusters"
+	"unplunderable" 1
+outfit "Optical Laser Rifle"
+	"unplunderable" 1
+outfit "Trefoil Board"
+	"unplunderable" 1
+outfit "Damselflyman"
+	"unplunderable" 1
+outfit "Lancet Adamant"
+	"unplunderable" 1
+outfit "Twilight Guard License"
+	"unplunderable" 1
+outfit "Avgi Torch License"
+	"unplunderable" 1
+outfit "Avgi Atomics License"
+	"unplunderable" 1

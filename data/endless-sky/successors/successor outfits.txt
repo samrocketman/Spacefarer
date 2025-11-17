@@ -1,0 +1,70 @@
+outfit "Successor License"
+	"unplunderable" 1
+outfit "High Houses License"
+	"unplunderable" 1
+outfit `"Byiaa" Shield Cortex`
+	"unplunderable" 1
+outfit `"Ej" Shield Cortex`
+	"unplunderable" 1
+outfit `"Jaase" Shield Cortex`
+	"unplunderable" 1
+outfit `"Jorv" Shield Cortex`
+	"unplunderable" 1
+outfit "Shield Cortex Interface"
+	"unplunderable" 1
+outfit `1-"Uurau" Betavoltaic Cell`
+	"unplunderable" 1
+outfit `OC-"Mavra" Betavoltaic Cell`
+	"unplunderable" 1
+outfit `3-"Kaska" Betavoltaic Cell`
+	"unplunderable" 1
+outfit `6-"Ruuv" Betavoltaic Cell`
+	"unplunderable" 1
+outfit "Auxiliary Power Reserve"
+	"unplunderable" 1
+outfit "Primary Power Reserve"
+	"unplunderable" 1
+outfit `"Nnesa" Fusion Core`
+	"unplunderable" 1
+outfit `"Ryuit" Fusion Core`
+	"unplunderable" 1
+outfit `"Uoret" Fusion Core`
+	"unplunderable" 1
+outfit "Successor Cooling"
+	"unplunderable" 1
+outfit "Successor Fuel Sail"
+	"unplunderable" 1
+outfit `"Veldt" Combat Scanner`
+	"unplunderable" 1
+outfit `"Tuur" Scanning Suite`
+	"unplunderable" 1
+outfit `"Niis" Inductive Engines`
+	"unplunderable" 1
+outfit `"Aqra" Inductive Thruster`
+	"unplunderable" 1
+outfit `"Aqra" Inductive Steering`
+	"unplunderable" 1
+outfit `"Aqra" Inductive Reverser`
+	"unplunderable" 1
+outfit `"Chyyra" Inductive Thruster`
+	"unplunderable" 1
+outfit `"Chyyra" Inductive Steering`
+	"unplunderable" 1
+outfit `"Chyyra" Inductive Reverser`
+	"unplunderable" 1
+outfit `"Veusa" Inductive Thruster`
+	"unplunderable" 1
+outfit `"Veusa" Inductive Steering`
+	"unplunderable" 1
+outfit `"Veusa" Inductive Reverser`
+	"unplunderable" 1
+outfit "Multimodal Armor: Light"
+	"unplunderable" 1
+outfit "Multimodal Armor: Heavy"
+	"unplunderable" 1
+outfit "Multimodal Armor: Regen"
+	"unplunderable" 1
+outfit "Multimodal Armor: Keystone"
+	"unplunderable" 1
+outfit "Kinetic Rail Rifle"
+	"unplunderable" 1

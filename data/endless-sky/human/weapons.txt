@@ -16,6 +16,8 @@ outfit "Modified Blaster Submunition"
 	"unplunderable" 1
 outfit "Modified Blaster Turret"
 	"unplunderable" 1
+outfit "Heavy Blaster"
+	"unplunderable" 1
 outfit "Beam Laser"
 	"unplunderable" 1
 outfit "Laser Turret"

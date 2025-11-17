@@ -1,0 +1,38 @@
+outfit "Plasma Discharger"
+	"unplunderable" 1
+outfit "plasma particle"
+	"unplunderable" 1
+outfit "Stagnation Beam"
+	"unplunderable" 1
+outfit "Star Tail"
+	"unplunderable" 1
+outfit "Star Tail Projectile"
+	"unplunderable" 1
+outfit "Star Tail Cell"
+	"unplunderable" 1
+outfit "Star Tail Storage"
+	"unplunderable" 1
+outfit "Horizon Grappler"
+	"unplunderable" 1
+outfit "Gas-Class Shield"
+	"unplunderable" 1
+outfit "Liquid-Class Shield"
+	"unplunderable" 1
+outfit "Metallic Hydrogen Cell"
+	"unplunderable" 1
+outfit "MH Blue-Class Thruster"
+	"unplunderable" 1
+outfit "MH Blue-Class Steering"
+	"unplunderable" 1
+outfit "MH Green-Class Thruster"
+	"unplunderable" 1
+outfit "MH Green-Class Steering"
+	"unplunderable" 1
+outfit "MH Red-Class Thruster"
+	"unplunderable" 1
+outfit "MH Red-Class Steering"
+	"unplunderable" 1
+outfit "Cloud Piercer"
+	"unplunderable" 1
+outfit "Hicemus Conflict License"
+	"unplunderable" 1

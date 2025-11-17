@@ -26,3 +26,7 @@ outfit "Yottrite"
 	"unplunderable" 1
 outfit "Void Orchid"
 	"unplunderable" 1
+outfit "Voidfish"
+	"unplunderable" 1
+outfit "Integral Wood"
+	"unplunderable" 1

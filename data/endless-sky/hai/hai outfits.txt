@@ -1,3 +1,7 @@
+outfit "Phantom Pallet"
+	"unplunderable" 1
+outfit "Holovid Zone"
+	"unplunderable" 1
 outfit "Pulse Cannon"
 	"unplunderable" 1
 outfit "Pulse Turret"

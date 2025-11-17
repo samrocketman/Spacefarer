@@ -1,0 +1,2 @@
+ship "Grasshopper" "Grasshopper (Hai Start)"
+	"uncapturable"

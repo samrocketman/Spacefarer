@@ -1,0 +1,12 @@
+outfit "Aberrant Spiker"
+	"unplunderable" 1
+outfit "Nucleolysis Beam"
+	"unplunderable" 1
+outfit "Telescopic Antimissile"
+	"unplunderable" 1
+outfit "Anomalous Shield Restorer"
+	"unplunderable" 1
+outfit "Antimatter Power Cell"
+	"unplunderable" 1
+outfit "Anomalous Mass"
+	"unplunderable" 1

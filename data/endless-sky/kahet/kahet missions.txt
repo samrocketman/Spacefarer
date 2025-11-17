@@ -1,0 +1,26 @@
+outfit "Cloak Checker"
+	"unplunderable" 1
+outfit "Asteroid Weapon Super"
+	"unplunderable" 1
+outfit "asteroid fragment"
+	"unplunderable" 1
+outfit "Fuel Removal"
+	"unplunderable" 1
+outfit "Ka'het Machinery"
+	"unplunderable" 1
+ship "Cloak Check"
+	"uncapturable"
+ship "Asteroid Planet"
+	"uncapturable"
+ship "Remnant Satellite"
+	"uncapturable"
+ship "Asteroid Blocker"
+	"uncapturable"
+ship "Fetri'sei" "Fetri'sei (Patir 12.2)"
+	"uncapturable"
+ship "Asteroid Large 1" "Asteroid Large (Patir 12.2)"
+	"uncapturable"
+ship "Builder Satellite"
+	"uncapturable"
+ship "Builder Satellite" "Builder Satellite 2"
+	"uncapturable"

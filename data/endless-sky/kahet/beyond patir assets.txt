@@ -1,0 +1,234 @@
+outfit "Asteroid Anti-Missile"
+	"unplunderable" 1
+outfit "Asteroid Anti-Missile 2"
+	"unplunderable" 1
+outfit "Asteroid Weapon Small"
+	"unplunderable" 1
+outfit "Asteroid Circle Submunition"
+	"unplunderable" 1
+outfit "Asteroid Weapon Large"
+	"unplunderable" 1
+outfit "creeper1 print"
+	"unplunderable" 1
+outfit "creeper1 static"
+	"unplunderable" 1
+outfit "creeper2 print"
+	"unplunderable" 1
+outfit "creeper2 static"
+	"unplunderable" 1
+outfit "creeper3 print"
+	"unplunderable" 1
+outfit "creeper3 static"
+	"unplunderable" 1
+outfit "creeper4 print"
+	"unplunderable" 1
+outfit "creeper4 static"
+	"unplunderable" 1
+outfit "creeper5 print"
+	"unplunderable" 1
+outfit "creeper5 static"
+	"unplunderable" 1
+outfit "creeper6 print"
+	"unplunderable" 1
+outfit "creeper6 static"
+	"unplunderable" 1
+outfit "creeper7 print"
+	"unplunderable" 1
+outfit "creeper7 static"
+	"unplunderable" 1
+outfit "creeper8 print"
+	"unplunderable" 1
+outfit "creeper8 static"
+	"unplunderable" 1
+outfit "creeper9 print"
+	"unplunderable" 1
+outfit "creeper9 static"
+	"unplunderable" 1
+outfit "creeper10 print"
+	"unplunderable" 1
+outfit "creeper10 static"
+	"unplunderable" 1
+outfit "creeper11 print"
+	"unplunderable" 1
+outfit "creeper11 static"
+	"unplunderable" 1
+outfit "creeper12 print"
+	"unplunderable" 1
+outfit "creeper12 static"
+	"unplunderable" 1
+outfit "creeper13 print"
+	"unplunderable" 1
+outfit "creeper13 static"
+	"unplunderable" 1
+outfit "creeper14 print"
+	"unplunderable" 1
+outfit "creeper14 static"
+	"unplunderable" 1
+outfit "creeper15 print"
+	"unplunderable" 1
+outfit "creeper15 static"
+	"unplunderable" 1
+outfit "asteroid launch"
+	"unplunderable" 1
+outfit "Asteroid Weapon Large 2"
+	"unplunderable" 1
+outfit "spin1 print right"
+	"unplunderable" 1
+outfit "spin1 print left"
+	"unplunderable" 1
+outfit "track1 print right"
+	"unplunderable" 1
+outfit "track1 print left"
+	"unplunderable" 1
+outfit "spin2 print right"
+	"unplunderable" 1
+outfit "spin2 print left"
+	"unplunderable" 1
+outfit "track2 print right"
+	"unplunderable" 1
+outfit "track2 print left"
+	"unplunderable" 1
+outfit "spin3 print right"
+	"unplunderable" 1
+outfit "spin3 print left"
+	"unplunderable" 1
+outfit "track3 print right"
+	"unplunderable" 1
+outfit "track3 print left"
+	"unplunderable" 1
+outfit "spin4 print right"
+	"unplunderable" 1
+outfit "spin4 print left"
+	"unplunderable" 1
+outfit "track4 print right"
+	"unplunderable" 1
+outfit "track4 print left"
+	"unplunderable" 1
+outfit "asteroid laser 1"
+	"unplunderable" 1
+outfit "Asteroid Weapon Large 3"
+	"unplunderable" 1
+outfit "asteroid missile"
+	"unplunderable" 1
+outfit "magic deployer1"
+	"unplunderable" 1
+outfit "magic deployer2"
+	"unplunderable" 1
+outfit "magic deployer3"
+	"unplunderable" 1
+outfit "magic deployer4"
+	"unplunderable" 1
+outfit "magic deployer5"
+	"unplunderable" 1
+outfit "magic deployer6"
+	"unplunderable" 1
+outfit "Asteroid Weapon Large 4"
+	"unplunderable" 1
+outfit "wep1 print"
+	"unplunderable" 1
+outfit "wep2 print"
+	"unplunderable" 1
+outfit "wep3 print"
+	"unplunderable" 1
+outfit "wep4 print"
+	"unplunderable" 1
+outfit "wep5 print"
+	"unplunderable" 1
+outfit "wep6 print"
+	"unplunderable" 1
+outfit "wep7 print"
+	"unplunderable" 1
+outfit "wep8 print"
+	"unplunderable" 1
+outfit "wep9 print"
+	"unplunderable" 1
+outfit "wep10 print"
+	"unplunderable" 1
+outfit "wep11 print"
+	"unplunderable" 1
+outfit "wep12 print"
+	"unplunderable" 1
+outfit "wep13 print"
+	"unplunderable" 1
+outfit "wep14 print"
+	"unplunderable" 1
+outfit "wep15 print"
+	"unplunderable" 1
+outfit "wep16 print"
+	"unplunderable" 1
+outfit "wep17 print"
+	"unplunderable" 1
+outfit "wep18 print"
+	"unplunderable" 1
+outfit "wep19 print"
+	"unplunderable" 1
+outfit "wep20 print"
+	"unplunderable" 1
+outfit "wep21 print"
+	"unplunderable" 1
+outfit "wep22 print"
+	"unplunderable" 1
+outfit "wep23 print"
+	"unplunderable" 1
+outfit "wep24 print"
+	"unplunderable" 1
+outfit "wep25 print"
+	"unplunderable" 1
+outfit "wep26 print"
+	"unplunderable" 1
+outfit "wep27 print"
+	"unplunderable" 1
+outfit "wep28 print"
+	"unplunderable" 1
+outfit "wep29 print"
+	"unplunderable" 1
+outfit "wep30 print"
+	"unplunderable" 1
+outfit "wep31 print"
+	"unplunderable" 1
+outfit "wep32 print"
+	"unplunderable" 1
+outfit "wep33 print"
+	"unplunderable" 1
+outfit "wep34 print"
+	"unplunderable" 1
+outfit "wep35 print"
+	"unplunderable" 1
+outfit "wep36 print"
+	"unplunderable" 1
+outfit "wep37 print"
+	"unplunderable" 1
+outfit "wep38 print"
+	"unplunderable" 1
+outfit "wep39 print"
+	"unplunderable" 1
+outfit "wep40 print"
+	"unplunderable" 1
+outfit "wep41 print"
+	"unplunderable" 1
+outfit "wep42 print"
+	"unplunderable" 1
+outfit "wep static"
+	"unplunderable" 1
+outfit "Asteroid Jump Drive"
+	"unplunderable" 1
+ship "Asteroid Large 1"
+	"uncapturable"
+ship "Asteroid Large 2"
+	"uncapturable"
+ship "Asteroid Large 3"
+	"uncapturable"
+ship "Asteroid Large 4"
+	"uncapturable"
+ship "Asteroid Large 5"
+	"uncapturable"
+ship "Asteroid Medium"
+	"uncapturable"
+ship "Asteroid Young 1"
+	"uncapturable"
+ship "Asteroid Young 2"
+	"uncapturable"
+ship "Asteroid Young 3"
+	"uncapturable"
+ship "Asteroid Young 4"
+	"uncapturable"

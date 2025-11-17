@@ -58,7 +58,7 @@ echo 'Creating outfit constraints:'
       done
     ) | \
     tr '\n' '\0' | \
-    xargs -0 -n1 -I{} -- echo -e '{}\n\t"unplunderable" 1' >> ~1/"${plugin_dest}"
+    xargs -0 -I{} -- echo -e '{}\n\t"unplunderable" 1' >> ~1/"${plugin_dest}"
   echo "    Created '${plugin_dest}'."
 done
 
@@ -87,7 +87,7 @@ echo 'Creating ship constraints:'
         done
       ) | \
       tr '\n' '\0' | \
-      xargs -0 -n1 -I{} -- echo -e '{}\n\t"uncapturable"' >> ~1/"${plugin_dest}"
+      xargs -0 -I{} -- echo -e '{}\n\t"uncapturable"' >> ~1/"${plugin_dest}"
     echo "    Created '${plugin_dest}'."
   ) || rm -f ~1/"${data_file}"
 done
